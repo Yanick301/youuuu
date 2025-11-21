@@ -1,0 +1,799 @@
+
+{
+  "nav": {
+    "women": "Women",
+    "men": "Men",
+    "clothing": "Clothing",
+    "accessories": "Accessories",
+    "ai_stylist": "AI Stylist"
+  },
+  "header": {
+    "toggle_menu": "Toggle menu",
+    "select_language": "Select language",
+    "search": "Search",
+    "favorites": "Favorites",
+    "cart": "Cart"
+  },
+  "user_nav": {
+    "my_account": "My Account",
+    "profile": "Profile",
+    "logout": "Log Out",
+    "login": "Log In",
+    "signup": "Sign Up"
+  },
+  "footer": {
+    "tagline": "Elegant fashion for connoisseurs.",
+    "shop": "Shop",
+    "help": "Help",
+    "contact": "Contact",
+    "order_tracking": "Order Tracking",
+    "returns": "Returns",
+    "faq": "FAQ",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "rights_reserved": "All rights reserved."
+  },
+  "hero": {
+    "title": "Elegance Redefined",
+    "subtitle": "Discover exclusive collections that blend timeless style with modern trends.",
+    "button": "Discover the Collection",
+    "alt": "Model in luxurious clothing"
+  },
+  "philosophy": {
+    "materials": {
+      "title": "Noble Materials",
+      "description": "We select only the finest fabrics, from Italian cashmere to Egyptian cotton, for an unparalleled feel and durability."
+    },
+    "craftsmanship": {
+      "title": "Craftsmanship",
+      "description": "Each piece is the result of exceptional craftsmanship, where traditional techniques meet modern design to ensure a perfect finish."
+    },
+    "exclusivity": {
+      "title": "Exclusivity",
+      "description": "Our limited collections and exclusive pieces guarantee you a unique style that sets you apart."
+    }
+  },
+  "home": {
+    "trending_products": "Trending Products",
+    "trending_description": "The most coveted pieces of the season.",
+    "view_all_products": "View All Products",
+    "new_arrivals": "New Arrivals",
+    "new_arrivals_description": "Explore the latest additions to our collection.",
+    "testimonials": "Testimonials",
+    "testimonials_description": "What our customers say about us.",
+    "maison_menu": {
+      "title": "Maison Menu",
+      "tailoring": {
+        "subtitle": "Sartorial Precision",
+        "title": "Atelier Tailoring",
+        "description": "Architectural suits and sartorial precision.",
+        "cta": "Explore Men"
+      },
+      "couture": {
+        "subtitle": "Maison Lumière",
+        "title": "Couture & Soirée",
+        "description": "Flowing dresses, luminous silks, and contemporary couture.",
+        "cta": "Explore Women"
+      },
+      "accessories": {
+        "subtitle": "Gallery Selection",
+        "title": "Salon Accessories",
+        "description": "Iconic bags, signature perfumes, and modern jewels.",
+        "cta": "Explore Accessories"
+      }
+    }
+  },
+  "categories": {
+    "women": "Women",
+    "men": "Men"
+  },
+  "testimonial": {
+    "lena": {
+      "name": "Lena S.",
+      "quote": "Exceptional quality and unparalleled style. EZENTIALS has become my go-to for luxury fashion."
+    },
+    "felix": {
+      "name": "Felix K.",
+      "quote": "Finally, a shop that understands masculine elegance. The cuts are perfect and the materials are very pleasant."
+    },
+    "hannah": {
+      "name": "Hannah W.",
+      "quote": "I ordered a dress for a gala and received a flood of compliments. The customer service is also very responsive."
+    }
+  },
+  "product_card": {
+    "add": "Add",
+    "add_to_favorites": "Add to favorites"
+  },
+  "product_grid": {
+    "no_products": "No products found."
+  },
+  "search": {
+    "title": "Search Products",
+    "placeholder": "Search for a blazer, a dress...",
+    "no_results": "No results found for your search."
+  },
+  "products_page": {
+    "title": "All Collections",
+    "description": "Browse our complete catalog of luxury clothing and accessories."
+  },
+  "women_page": {
+    "title": "Women's Collection",
+    "description": "Elegance and sophistication for the modern woman."
+  },
+  "men_page": {
+    "title": "Men's Collection",
+    "description": "Style and elegance for the modern man."
+  },
+  "clothing_page": {
+    "title": "Clothing",
+    "description": "Discover our selection of premium clothing."
+  },
+  "accessories_page": {
+    "title": "Accessories",
+    "description": "The final touch for a perfect style."
+  },
+  "cart_page": {
+    "title": "Your Cart",
+    "description": "Review the items in your cart before proceeding to checkout.",
+    "empty_message": "Your cart is currently empty.",
+    "continue_shopping": "Continue Shopping",
+    "items_placeholder": "List of cart items here...",
+    "proceed_to_checkout": "Proceed to Checkout",
+    "login_prompt_title": "Almost there!",
+    "login_prompt_desc_1": "Please",
+    "login_prompt_link": "log in",
+    "login_prompt_desc_2": "or create an account to proceed to checkout."
+  },
+  "checkout_page": {
+    "title": "Checkout",
+    "description": "Complete your order securely.",
+    "coming_soon": "The checkout process is currently under construction.",
+    "shipping_address": "Shipping Address",
+    "full_name": "Full Name",
+    "full_name_placeholder": "John Doe",
+    "address": "Address",
+    "address_placeholder": "123 Main Street",
+    "city": "City",
+    "zip_code": "ZIP Code",
+    "country": "Country",
+    "payment_details": "Payment Details",
+    "card_number": "Card Number",
+    "expiry_date": "Expiry Date",
+    "cvc": "CVC",
+    "order_summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "pay_now": "Pay Securely Now",
+    "secure_payment": "Secure payment with Stripe."
+  },
+  "favorites_page": {
+    "title": "My Favorites",
+    "description": "Your personal selection of items.",
+    "empty_title": "Your wishlist is empty",
+    "empty_message": "Add items you love to save them here.",
+    "discover_button": "Discover Our Products"
+  },
+  "orders_page": {
+    "title": "My Orders",
+    "description": "Check the history of your orders.",
+    "no_orders": "You have not placed any orders yet."
+  },
+  "profile_page": {
+    "title": "Profile",
+    "description": "Manage your account information.",
+    "coming_soon": "Profile management will be available soon."
+  },
+  "account_layout": {
+    "title": "My Account",
+    "profile": "Profile",
+    "orders": "My Orders",
+    "favorites": "My Favorites"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to your most common questions.",
+    "shipping": {
+      "question": "What are the shipping options?",
+      "answer": "We offer free standard shipping (3-5 business days) on all orders. Express shipping (1-2 business days) is available for an additional fee."
+    },
+    "returns": {
+      "question": "How can I return an item?",
+      "answer": "You can return any item free of charge within 30 days of receipt. Please visit our returns portal to start the process."
+    },
+    "sizing": {
+      "question": "How do I find my right size?",
+      "answer": "Each product page includes a detailed size guide with specific measurements. If you are unsure, do not hesitate to contact our customer service for a personal consultation."
+    },
+    "care": {
+      "question": "How do I care for my items?",
+      "answer": "Care instructions are available on the label of each item and in the 'Details & Care' section on the product page. For delicate materials like cashmere or silk, we recommend professional dry cleaning."
+    },
+    "contact": {
+      "question": "How can I contact you?",
+      "answer": "Our customer service team is available by email at service@ezentials.com or through our contact form. We strive to respond to all inquiries within 24 hours."
+    }
+  },
+  "product_page": {
+    "reviews_count": "reviews",
+    "color": "Color",
+    "select_color": "Select color",
+    "size": "Size",
+    "add_to_cart": "Add to Cart",
+    "add_to_favorites": "Add to favorites",
+    "favorited": "Favorited",
+    "favorite": "Favorite",
+    "details_care": "Details & Care",
+    "default_details": "Composition: 80% Satin, 20% Silk. Hand wash only. Do not tumble dry.",
+    "shipping_returns": "Shipping & Returns",
+    "shipping_details": "Free standard shipping within 3-5 business days. Free returns within 30 days.",
+    "customer_reviews": "Customer Reviews",
+    "what_customers_say": "What our customers say",
+    "cancel_review": "Cancel",
+    "write_review": "Write a review",
+    "share_opinion": "Share your opinion",
+    "your_name": "Your name",
+    "name_placeholder": "e.g., John Doe",
+    "your_rating": "Your rating",
+    "your_comment": "Your comment",
+    "comment_placeholder": "Describe your experience...",
+    "submit_review": "Submit review",
+    "be_the_first_review": "Be the first to leave a review for this product!",
+    "toast": {
+      "favorite_added_title": "Added to favorites",
+      "favorite_added_desc": "has been added to your favorites list.",
+      "favorite_removed_title": "Removed from favorites",
+      "favorite_removed_desc": "has been removed from your favorites list.",
+      "review_submitted_title": "Review submitted",
+      "review_submitted_desc": "Thank you for sharing your experience."
+    }
+  },
+  "login_form": {
+    "title": "Log In",
+    "description": "Enter your email below to log in to your account.",
+    "error_title": "Login Error",
+    "password": "Password",
+    "submit_button": "Log In",
+    "forgot_password": "Forgot your password?",
+    "no_account": "Don't have an account?",
+    "signup_link": "Sign up",
+    "password_reset_error_title": "Password Reset Error",
+    "password_reset_error_desc": "Please enter a valid email address.",
+    "password_reset_success_title": "Password Reset Email Sent",
+    "password_reset_success_desc": "Check your inbox for further instructions."
+  },
+  "signup_form": {
+    "title": "Sign Up",
+    "description": "Create an account to enjoy a personalized experience.",
+    "error_title": "Sign Up Error",
+    "full_name": "Full Name",
+    "full_name_placeholder": "First Last",
+    "password": "Password",
+    "submit_button": "Create Account",
+    "already_have_account": "Already have an account?",
+    "login_link": "Log in",
+    "success_title": "Account created successfully",
+    "success_description": "A verification email has been sent. Please check your inbox.",
+    "error_email_in_use": "This email address is already in use.",
+    "error_generic": "An error occurred while creating the account."
+  },
+  "ai_stylist": {
+    "title": "Your Personal AI Stylist",
+    "description": "Describe your style, and we'll curate a custom selection for you, inspired by your browsing habits.",
+    "form_label": "What are your current style preferences and desires?",
+    "form_placeholder": "e.g., I like a minimalist style, neutral colors, and natural materials like linen and cotton. I'm looking for an outfit for a summer wedding...",
+    "button_text": "Get My Recommendations",
+    "error_title": "Error",
+    "error_message": "An error occurred while generating recommendations.",
+    "results_title": "Our Suggestions For You",
+    "browsing_history_example": "Viewed items: 'Elegant Evening Gown' (Clothing, Women), 'Linen Shirt' (Clothing, Men), 'Leather Handbag' (Accessories, Women). User appears to be interested in elegant and classic styles."
+  },
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "last_updated": "Last updated: May 24, 2024",
+    "introduction": {
+      "title": "Introduction",
+      "content": "Welcome to EZENTIALS. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website."
+    },
+    "data_collected": {
+      "title": "Data We Collect About You",
+      "content": "We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows: Identity Data, Contact Data, Financial Data, Transaction Data, Technical Data, Profile Data, and Usage Data."
+    },
+    "data_usage": {
+      "title": "How We Use Your Personal Data",
+      "content": "We will only use your personal data to provide and improve our services, process your orders, manage your account, personalize your experience on our site, and to communicate with you."
+    },
+    "data_sharing": {
+      "title": "Data Sharing",
+      "content": "We may share your personal data with third parties for specific purposes, such as payment processors and delivery partners. We do not share your data with third parties for marketing purposes without your express consent."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site."
+    },
+    "security": {
+      "title": "Data Security",
+      "content": "We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed."
+    },
+    "user_rights": {
+      "title": "Your Legal Rights",
+      "content": "Under certain circumstances, you have rights under data protection laws in relation to your personal data, including the right to access, correct, erase, restrict processing, object to processing, and data portability."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this privacy policy, please contact us at privacy@ezentials.com."
+    }
+  },
+  "terms_of_service": {
+    "title": "Terms of Service",
+    "last_updated": "Last updated: May 24, 2024",
+    "agreement": {
+      "title": "Agreement to Terms",
+      "content": "By accessing or using our Service, you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service."
+    },
+    "accounts": {
+      "title": "Accounts",
+      "content": "When you create an account with us, you must provide us with information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service."
+    },
+    "products": {
+      "title": "Products",
+      "content": "We have made every effort to display as accurately as possible the colors and images of our products that appear at the store. We cannot guarantee that your computer monitor's display of any color will be accurate. All descriptions of products or product pricing are subject to change at any time without notice, at our sole discretion."
+    },
+    "payments": {
+      "title": "Payments",
+      "content": "We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made."
+    },
+    "intellectual_property": {
+      "title": "Intellectual Property",
+      "content": "The Service and its original content, features and functionality are and will remain the exclusive property of EZENTIALS and its licensors. The Service is protected by copyright, trademark, and other laws of both the Country and foreign countries."
+    },
+    "limitation_of_liability": {
+      "title": "Limitation Of Liability",
+      "content": "In no event shall EZENTIALS, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses."
+    },
+    "governing_law": {
+      "title": "Governing Law",
+      "content": "These Terms shall be governed and construed in accordance with the laws of the Country, without regard to its conflict of law provisions."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about these Terms, please contact us at legal@ezentials.com."
+    }
+  },
+  "products": {
+    "monarque_blazer": {
+      "name": "'The Diplomat' Double-Breasted Blazer",
+      "description": "A masterpiece of masculine elegance. Crafted from Italian virgin wool, its structured, double-breasted cut offers an assertive and sophisticated look.",
+      "details": "Super 120s Italian virgin wool. Breathable cupro lining. Genuine horn buttons. Dry clean only."
+    },
+    "aquila_suit": {
+      "name": "'Heritage' Wool and Silk Suit",
+      "description": "An exceptional suit for special occasions. The blend of wool and silk gives this three-piece a perfect drape and a subtle sheen, the signature of understated luxury.",
+      "details": "85% wool, 15% silk blend. Includes jacket, vest, and trousers. Entirely hand-finished by our master tailors."
+    },
+    "pur_shirt": {
+      "name": "'The Essential' Pima Cotton Shirt",
+      "description": "The white shirt, reinvented. Woven from exceptionally soft Peruvian Pima cotton, it features a French collar and side gussets for enhanced durability.",
+      "details": "100% Peruvian Pima Cotton. French collar, French cuffs. Australian mother-of-pearl buttons. Slim fit."
+    },
+    "nord_coat": {
+      "name": "'Stockholm' Cashmere Coat",
+      "description": "Scandinavian elegance at its finest. This long, minimalist-cut coat in pure cashmere envelops you in warmth and softness. An investment for a lifetime.",
+      "details": "100% Mongolian Cashmere. Unlined for unparalleled lightness. Notched lapel and welt pockets."
+    },
+    "elegance_dress": {
+      "name": "'Celestial' Silk Crepe Gown",
+      "description": "An ode to femininity. This long gown in pure silk crepe floats with every step. Its draped neckline and subtle open back make it an unforgettable piece.",
+      "details": "100% Silk Crepe. Fluid, bias cut. Silk lining. Specialist dry clean only."
+    },
+    "madame_suit": {
+      "name": "'Signature' Tweed Suit",
+      "description": "The epitome of Parisian chic. A short jacket and a straight skirt crafted from an exclusive French tweed, enhanced with jewel-like buttons.",
+      "details": "Exclusive French tweed. Short jacket and straight skirt. Full silk satin lining. Gold-plated buttons."
+    },
+    "rosee_blouse": {
+      "name": "'Secret Garden' Calais Lace Blouse",
+      "description": "A treasure of delicacy. Made from authentic Calais-Caudry® lace, this high-necked blouse is a masterpiece of French craftsmanship.",
+      "details": "Authentic Calais-Caudry® Lace. Comes with a matching silk camisole. Back fastening with small covered buttons."
+    },
+    "velours_coat": {
+      "name": "'Embrace' Suri Alpaca Coat",
+      "description": "A cocoon of luxurious softness. The long, silky hair of the Suri alpaca gives this robe coat exceptional warmth and lightness. Matching belt.",
+      "details": "100% Peruvian Suri Alpaca. Unlined, hand-sewn finishes. Robe cut with removable belt."
+    },
+    "sculpt_dress": {
+      "name": "'Architectural' Technical Jersey Dress",
+      "description": "A sculptural second skin. This midi sheath dress in Italian technical jersey hugs and enhances the figure without ever constricting. A modern and powerful piece.",
+      "details": "High-performance Italian technical jersey. Sheath cut, midi length. Invisible back zip closure."
+    },
+    "forge_jeans": {
+      "name": "'The Raw' Japanese Selvedge Straight Jean",
+      "description": "The authenticity of a true jean. Cut from a 14.5oz Japanese selvedge denim, this raw jean will develop a patina over time to become a unique piece, yours.",
+      "details": "14.5oz Japanese selvedge denim. Classic straight cut. Button fly. Chain-stitched hems."
+    },
+    "ezential_bag": {
+      "name": "'The Daily' Taurillon Leather Bag",
+      "description": "Functional luxury. This shoulder bag in French taurillon leather is as supple as it is durable. Its multiple compartments make it the ideal daily partner.",
+      "details": "French Taurillon leather. Suedette lining. Palladium-finish metal parts. Adjustable shoulder strap."
+    },
+    "eclipse_heels": {
+      "name": "'Vertigo' 105mm Suede Pump",
+      "description": "The quintessential stiletto. A perfect arch and a 10.5 cm heel that endlessly elongates the leg. Made in intense black kid suede.",
+      "details": "100% Italian kid suede. 10.5 cm heel. Leather insole and outsole."
+    },
+    "souverain_oxfords": {
+      "name": "'The Ambassador' One-Cut Oxford",
+      "description": "Elegance at its peak. This Oxford shoe is crafted from a single piece of calfskin, a technical feat. Hand-patinated in our workshops.",
+      "details": "One-Cut construction. French calfskin. Blake-stitched. Hand-patinated on request."
+    },
+    "soir_blazer": {
+      "name": "'Nocturne' Smoking Jacket",
+      "description": "Evening elegance. A silk velvet smoking jacket with a satin shawl collar. The centerpiece of your formal wardrobe.",
+      "details": "Silk velvet and satin. Shawl collar. One satin-covered button. Jacquard lining."
+    },
+    "silence_turtleneck": {
+      "name": "'Silence' Cashmere and Silk Turtleneck",
+      "description": "A caress on the skin. This turtleneck, knitted in an ultra-light blend of cashmere and silk, is of absolute comfort and flawless versatility.",
+      "details": "70% Cashmere, 30% Silk. Fine gauge knit. Ribbed cuffs and waist."
+    },
+    "cache_chino": {
+      "name": "'The Stroller' Cotton Gabardine Chino",
+      "description": "The casual alternative to suit trousers. Our chino is cut from a stretch cotton gabardine for optimal comfort, with a slim fit and tailored finishes.",
+      "details": "Stretch cotton gabardine. Hook and zip closure. Italian pockets. Slim fit."
+    },
+    "atlas_parka": {
+      "name": "'Explorer' Technical Parka",
+      "description": "Performance with style. This parka is made from a triple-layer Japanese technical fabric, waterproof and breathable. Taped seams.",
+      "details": "Triple-layer Japanese technical fabric. Taped seams. Removable hood. Multiple secure pockets."
+    },
+    "cuiron_jacket": {
+      "name": "'Rebel' Plongé Lambskin Jacket",
+      "description": "An icon reinvented. This biker jacket is cut from exceptionally supple plongé lambskin that will patina beautifully over time.",
+      "details": "Plongé lambskin. Riri zips and palladium details. Quilted satin lining."
+    },
+    "pluie_royale_trench": {
+      "name": "'Westminster' Trench Coat",
+      "description": "A timeless classic. Our trench is crafted from waterproof cotton gabardine, with all the traditional details: storm flaps, belt, and shoulder tabs.",
+      "details": "Water-repellent cotton gabardine. Signature check lining. Horn buttons. Classic cut."
+    },
+    "breeze_vest": {
+      "name": "'Zephyr' Quilted Vest",
+      "description": "The ideal mid-season piece. Ultra-light, this sleeveless vest is filled with high-quality goose down for targeted warmth without bulk.",
+      "details": "Japanese micro-ripstop fabric. 90/10 goose down filling. Folds into its own pocket."
+    },
+    "azur_shirt": {
+      "name": "'Riviera' Irish Linen Shirt",
+      "description": "Summer elegance par excellence. Woven from the finest Irish linen, this shirt offers a unique coolness and texture that improves with every wash.",
+      "details": "100% Irish Linen. Relaxed fit. Mother-of-pearl buttons. Washed for extra softness."
+    },
+    "nocturne_tuxedo": {
+      "name": "'Grand Soir' Barathea Tuxedo",
+      "description": "For unforgettable moments. This tuxedo is cut from a traditional barathea wool with a silk satin lapel. The quintessence of formal elegance.",
+      "details": "Barathea wool. Silk satin lapels and piping. Trousers with side satin stripe."
+    },
+    "rivage_shorts": {
+      "name": "'Capri' Linen Canvas Bermuda Shorts",
+      "description": "Casual chic for summer. These pleated Bermuda shorts are cut from a linen and viscose blend for an impeccable drape and crease resistance.",
+      "details": "Linen and viscose blend. High waist with pleats. Hook and zip closure."
+    },
+    "heritage_cardigan": {
+      "name": "'Clubhouse' Merino Wool Cardigan",
+      "description": "A versatile piece, between formal and casual. This shawl-collar cardigan is knitted from extra-fine merino wool, with braided leather buttons.",
+      "details": "100% Extra-fine Merino Wool. Shawl collar. Patch pockets. Braided leather buttons."
+    },
+    "folio_shirt": {
+      "name": "'Winter Garden' Viscose Shirt",
+      "description": "A touch of audacity. This short-sleeved shirt features an exclusive floral print on a fluid and light viscose, perfect for sunny days.",
+      "details": "100% Fluid Viscose. Exclusive print. Cuban collar. Straight cut."
+    },
+    "ete_palais_suit": {
+      "name": "'Sprezzatura' Linen and Cotton Summer Suit",
+      "description": "Italian-style summer elegance. The deconstructed structure and the linen-cotton blend make this suit incredibly light and breathable, without sacrificing style.",
+      "details": "Linen and Cotton blend. Unlined jacket, natural shoulders. Patch pockets."
+    },
+    "atelier_sweatshirt": {
+      "name": "'The Artist' Loopback Cotton Sweatshirt",
+      "description": "Comfort elevated to an art form. Made from Japanese loopback cotton (French Terry), this sweatshirt has a slightly oversized fit and flatlock seams for absolute comfort.",
+      "details": "Japanese loopback cotton (French Terry). Flatlock seams. Sturdy ribbed trims."
+    },
+    "verite_bomber": {
+      "name": "'Aviator' Goat Suede Bomber Jacket",
+      "description": "A tactile luxury. This bomber jacket is crafted from velvety goat suede, offering a sophisticated alternative to classic leather. Silk lining.",
+      "details": "Goat suede. Two-way Riri zipper. Wool and cashmere ribbed trims."
+    },
+    "elan_polo": {
+      "name": "'The Sportsman' Sea Island Cotton Piqué Polo",
+      "description": "The polo shirt, perfected. Knitted from the very rare Sea Island cotton, this polo offers an unparalleled silky softness and shine. Ribbed collar and placket.",
+      "details": "100% Sea Island Cotton. Two mother-of-pearl button placket. Side vents."
+    },
+    "nuage_hoodie": {
+      "name": "'Cocoon' Double-Face Cashmere Hoodie",
+      "description": "The pinnacle of luxury loungewear. This hoodie is knitted in pure double-face cashmere, offering a softness as exquisite on the inside as it is on the outside.",
+      "details": "100% Double-face Cashmere. Lined hood. Drawstring with metal tips."
+    },
+    "business_suit": {
+      "name": "'Business' Fresco Wool Suit",
+      "description": "The ultimate traveler's suit. The open-weave Fresco wool is naturally crease-resistant and breathable, ideal for staying impeccable all day long.",
+      "details": "High-twist Fresco wool. Half-canvas construction. Partial lining for breathability."
+    },
+    "expedition_parka": {
+      "name": "'Arctic' Ventile and Down Parka",
+      "description": "The ultimate protection against the elements. Outer shell in Ventile® cotton, a natural waterproof material, and generous filling of 850-fill-power goose down.",
+      "details": "Waterproof Ventile® cotton. 850 Fill Power goose down. Removable coyote fur-trimmed hood (ethically sourced)."
+    },
+    "metro_jumpsuit": {
+      "name": "'Urban' Wool Canvas Jumpsuit",
+      "description": "A modern style statement. This workwear-inspired jumpsuit is cut from a supple wool canvas for a look that is both chic and casual.",
+      "details": "Lightweight wool canvas. Concealed zip fastening. Matching belt. Multiple functional pockets."
+    },
+    "constellation_dress": {
+      "name": "'Starry Night' Evening Gown",
+      "description": "Capture the light. Entirely hand-embroidered with beads and crystals on silk tulle, this evening gown is a true work of art.",
+      "details": "Hand-embroidered silk tulle with beads and crystals. Requires hundreds of hours of work. Made-to-order unique piece."
+    },
+    "lueur_top": {
+      "name": "'Divine Drape' Silk Satin Top",
+      "description": "Simplicity magnified. A simple top in heavy silk satin, with a cowl neck that cascades with infinite grace.",
+      "details": "100% Heavy Silk Satin. Bias cut for a perfect drape. Thin straps."
+    },
+    "etoile_jeans": {
+      "name": "'The Parisian' Slim Jean",
+      "description": "The perfect slim jean. Cut from high-quality Italian stretch denim, it sculpts the leg without constricting, for a slender and comfortable silhouette.",
+      "details": "Italian stretch denim. Mid-rise waist. Subtle hand-made wash."
+    },
+    "noir_chic_jumpsuit": {
+      "name": "'St-Germain' Crepe Jumpsuit",
+      "description": "The modern alternative to the little black dress. An impeccably cut jumpsuit in heavy crepe, with wide legs and a defined waist.",
+      "details": "Crepe back satin. Wide legs. Removable belt. Wrap-over neckline."
+    },
+    "ballet_skirt": {
+      "name": "'Opera' Sunray Pleated Tulle Skirt",
+      "description": "Lightness and movement. This long skirt is made from several layers of sunray pleated tulle, creating an airy and poetic volume.",
+      "details": "Fine sunray pleated tulle. Grosgrain waistband. Silk crepe lining."
+    },
+    "seraphine_sweater": {
+      "name": "'Serenity' Openwork Cashmere Sweater",
+      "description": "An exquisitely fine knit. This boat-neck sweater is made from ultra-light cashmere with delicate openwork, subtly revealing the skin.",
+      "details": "100% 2-ply Cashmere. Openwork knit. Slightly loose fit."
+    },
+    "chic_urbain_jacket": {
+      "name": "'Rive Gauche' Bouclé Tweed Jacket",
+      "description": "A timeless piece of French chic. Woven from a wool and cotton bouclé, this short jacket is distinguished by its braided trims and jewel buttons.",
+      "details": "Bouclé tweed. Four patch pockets. Hand-braided trims. Silk lining."
+    },
+    "veloute_dress": {
+      "name": "'Carrosse' Silk Velvet Gown",
+      "description": "For a spectacular entrance. This long gown in devoré silk velvet plays with transparency for a glamorous and mysterious effect. High thigh slit.",
+      "details": "Devoré silk velvet. Partial lining. Side slit. Thin criss-cross back straps."
+    },
+    "poeme_blouse": {
+      "name": "'Impressionist' Silk Twill Blouse",
+      "description": "A masterpiece to wear. This blouse is printed with an exclusive floral pattern on a sumptuous silk twill, with a lavallière collar to tie.",
+      "details": "100% Silk Twill. Exclusive print. Lavallière collar. Buttoned cuffs."
+    },
+    "palace_coat": {
+      "name": "'Majestic' Faux Fur Coat",
+      "description": "Hollywood glamour. An opulent coat in faux fur of stunning quality and softness. Oversized volume and a large shawl collar.",
+      "details": "High-quality faux fur. Oversized cut. Invisible hook closure. Satin lining."
+    },
+    "soutien_briefs": {
+      "name": "'Second Skin' Microfiber Bodysuit",
+      "description": "Invisible perfection. This seamless bodysuit in ultra-fine microfiber smoothes and sculpts the silhouette discreetly under the most fitted clothes.",
+      "details": "Seamless technical microfiber. Light sculpting effect. Snap fastening at the crotch."
+    },
+    "maison_cardigan": {
+      "name": "'Sunday' English Rib Cardigan",
+      "description": "The ideal companion for your moments of relaxation. A long, enveloping cardigan, knitted in a chunky English rib from a blend of wool and alpaca.",
+      "details": "Wool and alpaca blend. English rib knit. No buttons. Patch pockets."
+    },
+    "matin_dress": {
+      "name": "'Weekend' Poplin Shirt Dress",
+      "description": "Effortless chic. A perfectly cut shirt dress in stretch cotton poplin, to be belted to define the waist or worn straight for a more relaxed look.",
+      "details": "Stretch cotton poplin. Removable belt. Pockets hidden in the seams."
+    },
+    "ete_rive_shorts": {
+      "name": "'Saint-Tropez' Duchess Satin Shorts",
+      "description": "A couture look for summer. These high-waisted pleated shorts are cut from a duchess satin that gives them exceptional hold and sheen.",
+      "details": "Duchess satin. High waist and pleats. Italian pockets. Cuffs."
+    },
+    "nuit_opera_pyjamas": {
+      "name": "'Reverie' Silk and Lace Pajama Set",
+      "description": "Even the night deserves elegance. A camisole and shorts set in silk satin, delicately inlaid with Calais lace on the neckline and hem.",
+      "details": "Silk satin and Calais lace. Adjustable straps. Shorts with elasticated waist."
+    },
+    "pluie_de_paris_trench": {
+      "name": "'Parisian' Fluid Gabardine Trench",
+      "description": "A modern and feminine version of the trench coat. Its fluid cotton gabardine and supple cut give it a less strict, more contemporary look.",
+      "details": "Cotton and Tencel gabardine. Unlined for more fluidity. Storm flap and removable belt."
+    },
+    "executive_dress": {
+      "name": "'Working Girl' Cool Wool Dress",
+      "description": "The uniform of the power woman. This sheath dress is tailored from crease-resistant cool wool, with a boat neckline and 3/4 sleeves.",
+      "details": "Super 110s cool wool. Fitted cut. Fully lined. Slit at the back for ease of movement."
+    },
+    "sculpture_top": {
+      "name": "'Gala' Silk Faille Bustier",
+      "description": "An architectural piece. This bustier is structured with internal boning and cut from a stiff silk faille for a high-fashion silhouette.",
+      "details": "Silk faille. Internal structure with boning. Zip at the back."
+    },
+    "voyage_parka": {
+      "name": "'Mist' Technical Nylon Rain Cape",
+      "description": "Elegance in the rain. An ample and ultra-light cape in Japanese technical nylon, which folds into a small pouch. Perfect for travel.",
+      "details": "Waterproof Japanese technical nylon. Taped seams. Hood and ample cut."
+    },
+    "aube_dress": {
+      "name": "'Dawn' Asymmetrical Dress",
+      "description": "A sculpture of fabric. This cocktail dress in crepe plays on drapes and an asymmetrical one-shoulder cut for a spectacular and modern effect.",
+      "details": "Crepe back satin. Asymmetrical cut. Hand-draped."
+    },
+    "lumi_clutch": {
+      "name": "'Jewel' Strass-Covered Minaudière",
+      "description": "More than a bag, a jewel. This rigid minaudière is entirely covered with Swarovski crystals, capturing the light with every movement.",
+      "details": "Brass structure. Swarovski crystals. Jewel clasp. Removable chain."
+    },
+    "carte_prime_holder": {
+      "name": "'The Minimalist' Epsom Leather Card Holder",
+      "description": "The essential, with elegance. Made from Epsom calfskin, known for its resistance, this slim card holder fits into any pocket.",
+      "details": "Epsom calfskin. Three card slots. Central compartment. Hand-painted edges."
+    },
+    "finesse_belt": {
+      "name": "'The Allure' Lizard Leather Belt",
+      "description": "The detail that changes everything. A thin belt in genuine lizard leather, with a discreet buckle in palladium-plated brass. A subtle luxury.",
+      "details": "Genuine lizard leather. Calfskin lining. Palladium-finish brass buckle."
+    },
+    "minit_bag": {
+      "name": "'The Charmer' Kid Suede Micro-Bag",
+      "description": "The little bag that has it all. Big enough for the essentials (phone, cards, lipstick), this velvety goat leather bag is the perfect evening accessory.",
+      "details": "Velvety goat leather. Chain and leather strap. Magnetic closure."
+    },
+    "horizon_sunglasses": {
+      "name": "'Aviator' Titanium and Gold Sunglasses",
+      "description": "An icon revisited. Ultra-light frame in Japanese titanium, with 18-carat gold-plated details. Polarized lenses for perfect vision.",
+      "details": "Titanium frame. 18-carat gold plating. Polarized lenses with anti-reflective treatment."
+    },
+    "nuit_scarf": {
+      "name": "'Sweet Night' Cashmere and Silk Stole",
+      "description": "A scarf of incredible lightness and softness. The blend of cashmere and silk gives it a fluid drape and delicate warmth.",
+      "details": "70% Cashmere, 30% Silk. Very fine weave. Delicate fringed edges. Dimensions: 70x200cm."
+    },
+    "organize_pouch": {
+      "name": "'The Nomad' Tech Pouch in Leather",
+      "description": "Organize your tech essentials with style. This soft leather pouch is designed to hold your cables, chargers, and other small accessories.",
+      "details": "Soft calfskin. Elasticated compartments. Microfiber lining."
+    },
+    "reflet_jewelry_set": {
+      "name": "'Dewdrop' Topaz Jewelry Set",
+      "description": "A necklace and earrings set of absolute finesse, highlighting pear-cut blue topazes on a white gold setting.",
+      "details": "18-carat white gold. 'Swiss Blue' blue topazes. Forçat chain."
+    },
+    "anchor_bracelet": {
+      "name": "'The Anchor' Braided Leather Bracelet",
+      "description": "A casual men's jewel. This bracelet is made of braided calfskin and a clasp in the shape of a marine anchor in brushed stainless steel.",
+      "details": "Braided calfskin. 316L steel anchor clasp. Handmade in Italy."
+    },
+    "etoile_earrings": {
+      "name": "'Solitaire Diamond' Stud Earrings",
+      "description": "Pure sparkle. Each earring is set with a 0.25 carat diamond, mounted on white gold for maximum brilliance. A timeless classic.",
+      "details": "18-carat white gold. Two 0.25ct diamonds each, G/VS quality. Secure locking system."
+    },
+    "ocean_necklace": {
+      "name": "'Black Pearl' Tahitian Necklace",
+      "description": "The raw, natural beauty of a Tahitian black pearl, simply suspended from a thin rose gold chain. Each pearl is unique.",
+      "details": "18-carat rose gold. Tahitian black pearl, AAA grade, 9-10mm diameter."
+    },
+    "sync_watch": {
+      "name": "'Connected Horizon' Automatic Watch",
+      "description": "The best of both worlds. A Swiss automatic movement watch, housed in a titanium case with a discreet, integrated notification module.",
+      "details": "Swiss automatic movement. Grade 5 titanium case. Sapphire crystal. Interchangeable strap."
+    },
+    "pluie_chic_umbrella": {
+      "name": "'The Gentleman' Maple Wood Umbrella",
+      "description": "Face the rain with panache. A single shaft of maple wood, a wide water-repellent canopy, and a traditional manual opening for this exceptional umbrella.",
+      "details": "Solid maple wood shaft and handle. High-density polyester canopy. Made in France."
+    },
+    "travel_safe_wallet": {
+      "name": "'The Globetrotter' Travel Wallet",
+      "description": "Organize your journey. Designed to hold a passport, boarding passes, currencies, and credit cards in an elegant leather format.",
+      "details": "Full-grain calfskin leather. RFID protection. Multiple compartments."
+    },
+    "riviera_hat": {
+      "name": "'Côte d'Azur' Panama Straw Hat",
+      "description": "The quintessential summer accessory. Hand-woven in Ecuador, this Panama straw hat protects from the sun with unparalleled elegance. Grosgrain ribbon.",
+      "details": "Authentic Toquilla straw (Panama). Fine weave. Interchangeable grosgrain ribbon."
+    },
+    "smart_gloves": {
+      "name": "'Tactile' Peccary Cashmere-Lined Gloves",
+      "description": "Luxury at your fingertips. Made from the very rare peccary leather and lined with cashmere, these gloves are compatible with touch screens.",
+      "details": "Peccary leather. 100% cashmere lining. Touchscreen compatible technology."
+    },
+    "ceremony_bowtie": {
+      "name": "'Black Tie' Silk Faille Bow Tie",
+      "description": "The essential accessory for evening wear. This self-tie bow tie is cut from a precious black silk faille.",
+      "details": "100% Silk Faille. Self-tie. Adjustable size."
+    },
+    "coin_purse": {
+      "name": "'The Collector' Clasp Coin Purse",
+      "description": "A retro charm. This soft calfskin coin purse closes with a classic metal clasp. Ideal for your change or your little secrets.",
+      "details": "Soft calfskin. Aged brass clasp. Lambskin lining."
+    },
+    "flora_brooch": {
+      "name": "'Fleur de Lys' Enamel Brooch",
+      "description": "A touch of poetry. This brooch, representing a stylized fleur-de-lis, is made using the plique-à-jour enamel technique, reminiscent of stained glass.",
+      "details": "Gold-plated 925 silver. Plique-à-jour enamel. Handmade."
+    },
+    "luxband_headband": {
+      "name": "'Muse' Silk Twill Headband",
+      "description": "A versatile accessory. To be worn in the hair, around the neck, or tied to your bag, this silk twill headband is printed with an exclusive pattern.",
+      "details": "100% Silk Twill. Printed on both sides. Dimensions: 6 x 105 cm."
+    },
+    "lecteur_glasses": {
+      "name": "'The Intellectual' Reading Glasses",
+      "description": "Read with style. Frame in Italian cellulose acetate, with high-quality lenses treated with anti-reflective and anti-blue light coatings.",
+      "details": "Mazzucchelli cellulose acetate. Anti-reflective and anti-blue light treated lenses. Riveted hinges."
+    },
+    "charme_bag_charm": {
+      "name": "'The Grimoire' Bag Charm",
+      "description": "Personalize your bag. This bag charm represents a tiny leather book with brass pages, suspended from a logoed snap hook.",
+      "details": "Leather and brass. Engraved steel snap hook."
+    },
+    "portfolio_laptop_case": {
+      "name": "'The Minister' Leather Document Holder",
+      "description": "Carry your computer and documents with elegance. This slim document holder in calfskin is lightly padded for optimal protection.",
+      "details": "Calfskin. Padded main compartment for a 13-inch computer. Exterior pocket."
+    },
+    "keygold_keychain": {
+      "name": "'The Guardian' Leather and Brass Keychain",
+      "description": "An everyday object transformed into a jewel. A strap of grained calfskin combined with solid brushed brass pieces.",
+      "details": "Calfskin and solid brass. Split ring and snap hook."
+    },
+    "serenite_sandals": {
+      "name": "'The Stroll' Flat Leather Sandals",
+      "description": "Minimalist elegance for summer. These flat sandals with thin calfskin straps are the symbol of a casual and timeless chic.",
+      "details": "Calfskin. Padded insole. Made in Italy."
+    },
+    "paris_boots": {
+      "name": "'Rive Gauche' Suede Ankle Boots",
+      "description": "The perfect everyday ankle boot. A comfortable 6 cm block heel, an elegant almond shape, and supple goat suede. Parisian chic.",
+      "details": "Goat suede. 6 cm block heel. Side zip closure."
+    },
+    "diva_mules": {
+      "name": "'Palazzo' Satin and Crystal Mules",
+      "description": "For evenings where anything goes. These pointed-toe satin mules are adorned with a spectacular square crystal buckle.",
+      "details": "Duchess satin. Swarovski crystal buckle. Small 2 cm heel."
+    },
+    "street_luxe_derby": {
+      "name": "'Avant-Garde' Platform Derbies",
+      "description": "A classic turned on its head. The traditional derby is mounted on a lugged platform sole in ultra-light micro-rubber, for a bold look.",
+      "details": "Polished calfskin. Micro-rubber platform sole. Leather lining."
+    },
+    "elite_derby": {
+      "name": "'The Consul' Buckle Derby",
+      "description": "An original alternative to the lace-up derby. This single-buckle model (Monk Strap) in grained calfskin is both formal and full of character.",
+      "details": "Grained calfskin. Goodyear welted. Brass buckle."
+    },
+    "club_loafer": {
+      "name": "'The Yachtsman' Suede Loafer",
+      "description": "The ideal companion for sunny weekends. This supple suede loafer is mounted on a rubber-studded sole for unparalleled flexibility and comfort.",
+      "details": "Water-repellent calf suede. Rubber-studded sole. Tubular construction."
+    },
+    "tradition_brogues": {
+      "name": "'Heritage' Full Brogue Oxford",
+      "description": "A pillar of British elegance. This Oxford is distinguished by its decorative perforations ('broguing') all over the shoe. An assertive character.",
+      "details": "Box-calf calfskin. Full brogue perforations. Goodyear welted on a leather sole."
+    },
+    "citadin_boots": {
+      "name": "'The Urbanite' Chelsea Boot",
+      "description": "Versatility and style. A clean shape, smooth calfskin, and sturdy elastic panels make this Chelsea boot an essential in the men's wardrobe.",
+      "details": "Smooth calfskin. Blake stitched. Side elastic panels."
+    },
+    "runway_sneakers": {
+      "name": "'The Minimalist' Leather Sneakers",
+      "description": "The clean luxury sneaker. Made in Italy from smooth calfskin, its minimalist silhouette matches any outfit, from a suit to jeans.",
+      "details": "Italian calfskin. Full leather lining. Stitched rubber sole."
+    }
+  }
+}
+    

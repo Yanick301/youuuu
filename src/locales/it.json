@@ -1,0 +1,799 @@
+
+{
+  "nav": {
+    "women": "Donne",
+    "men": "Uomini",
+    "clothing": "Abbigliamento",
+    "accessories": "Accessori",
+    "ai_stylist": "Stilista AI"
+  },
+  "header": {
+    "toggle_menu": "Attiva/disattiva menu",
+    "select_language": "Seleziona lingua",
+    "search": "Cerca",
+    "favorites": "Preferiti",
+    "cart": "Carrello"
+  },
+  "user_nav": {
+    "my_account": "Il mio account",
+    "profile": "Profilo",
+    "logout": "Esci",
+    "login": "Accedi",
+    "signup": "Registrati"
+  },
+  "footer": {
+    "tagline": "Moda elegante per intenditori.",
+    "shop": "Negozio",
+    "help": "Aiuto",
+    "contact": "Contatto",
+    "order_tracking": "Tracciamento ordine",
+    "returns": "Resi",
+    "faq": "FAQ",
+    "legal": "Legale",
+    "terms": "Termini di servizio",
+    "privacy": "Informativa sulla privacy",
+    "rights_reserved": "Tutti i diritti riservati."
+  },
+  "hero": {
+    "title": "Eleganza Ridefinita",
+    "subtitle": "Scopri collezioni esclusive che fondono stile senza tempo con tendenze moderne.",
+    "button": "Scopri la Collezione",
+    "alt": "Modella in abiti di lusso"
+  },
+  "philosophy": {
+    "materials": {
+      "title": "Materiali Nobili",
+      "description": "Selezioniamo solo i tessuti più pregiati, dal cashmere italiano al cotone egiziano, per una sensazione e una durata ineguagliabili."
+    },
+    "craftsmanship": {
+      "title": "Artigianato",
+      "description": "Ogni pezzo è il risultato di un'eccezionale maestria artigianale, dove le tecniche tradizionali incontrano il design moderno per garantire una finitura perfetta."
+    },
+    "exclusivity": {
+      "title": "Esclusività",
+      "description": "Le nostre collezioni limitate e i pezzi esclusivi ti garantiscono uno stile unico che ti distinguerà."
+    }
+  },
+  "home": {
+    "trending_products": "Prodotti di Tendenza",
+    "trending_description": "I pezzi più desiderati della stagione.",
+    "view_all_products": "Vedi Tutti i Prodotti",
+    "new_arrivals": "Nuovi Arrivi",
+    "new_arrivals_description": "Esplora le ultime aggiunte alla nostra collezione.",
+    "testimonials": "Testimonianze",
+    "testimonials_description": "Cosa dicono di noi i nostri clienti.",
+    "maison_menu": {
+      "title": "Menu Maison",
+      "tailoring": {
+        "subtitle": "Precisione Sartoriale",
+        "title": "Atelier Tailoring",
+        "description": "Abiti architettonici e precisione sartoriale.",
+        "cta": "Esplora Uomo"
+      },
+      "couture": {
+        "subtitle": "Maison Lumière",
+        "title": "Couture & Soirée",
+        "description": "Abiti fluidi, sete luminose e alta moda contemporanea.",
+        "cta": "Esplora Donna"
+      },
+      "accessories": {
+        "subtitle": "Selezione Galleria",
+        "title": "Salone Accessori",
+        "description": "Borse iconiche, profumi d'autore e gioielli moderni.",
+        "cta": "Esplora Accessori"
+      }
+    }
+  },
+  "categories": {
+    "women": "Donne",
+    "men": "Uomini"
+  },
+  "testimonial": {
+    "lena": {
+      "name": "Lena S.",
+      "quote": "Qualità eccezionale e stile ineguagliabile. EZENTIALS è diventato il mio punto di riferimento per la moda di lusso."
+    },
+    "felix": {
+      "name": "Felix K.",
+      "quote": "Finalmente un negozio che capisce l'eleganza maschile. I tagli sono perfetti e i materiali molto piacevoli."
+    },
+    "hannah": {
+      "name": "Hannah W.",
+      "quote": "Ho ordinato un abito per una serata di gala e ho ricevuto una valanga di complimenti. Anche il servizio clienti è molto reattivo."
+    }
+  },
+  "product_card": {
+    "add": "Aggiungi",
+    "add_to_favorites": "Aggiungi ai preferiti"
+  },
+  "product_grid": {
+    "no_products": "Nessun prodotto trovato."
+  },
+  "search": {
+    "title": "Cerca Prodotti",
+    "placeholder": "Cerca un blazer, un abito...",
+    "no_results": "Nessun risultato trovato per la tua ricerca."
+  },
+  "products_page": {
+    "title": "Tutte le Collezioni",
+    "description": "Sfoglia il nostro catalogo completo di abbigliamento e accessori di lusso."
+  },
+  "women_page": {
+    "title": "Collezione Donna",
+    "description": "Eleganza e raffinatezza per la donna moderna."
+  },
+  "men_page": {
+    "title": "Collezione Uomo",
+    "description": "Stile ed eleganza per l'uomo moderno."
+  },
+  "clothing_page": {
+    "title": "Abbigliamento",
+    "description": "Scopri la nostra selezione di abbigliamento premium."
+  },
+  "accessories_page": {
+    "title": "Accessori",
+    "description": "Il tocco finale per uno stile perfetto."
+  },
+  "cart_page": {
+    "title": "Il Tuo Carrello",
+    "description": "Controlla gli articoli nel tuo carrello prima di procedere al pagamento.",
+    "empty_message": "Il tuo carrello è attualmente vuoto.",
+    "continue_shopping": "Continua lo shopping",
+    "items_placeholder": "Elenco degli articoli del carrello qui...",
+    "proceed_to_checkout": "Procedi al pagamento",
+    "login_prompt_title": "Ci siamo quasi!",
+    "login_prompt_desc_1": "Per favore",
+    "login_prompt_link": "accedi",
+    "login_prompt_desc_2": "o crea un account per procedere al pagamento."
+  },
+  "checkout_page": {
+    "title": "Pagamento",
+    "description": "Completa il tuo ordine in modo sicuro.",
+    "coming_soon": "La procedura di pagamento è in fase di costruzione.",
+    "shipping_address": "Indirizzo di spedizione",
+    "full_name": "Nome e cognome",
+    "full_name_placeholder": "Mario Rossi",
+    "address": "Indirizzo",
+    "address_placeholder": "Via Roma 123",
+    "city": "Città",
+    "zip_code": "Codice Postale",
+    "country": "Paese",
+    "payment_details": "Dettagli di pagamento",
+    "card_number": "Numero di carta",
+    "expiry_date": "Data di scadenza",
+    "cvc": "CVC",
+    "order_summary": "Riepilogo ordine",
+    "subtotal": "Subtotale",
+    "shipping": "Spedizione",
+    "free": "Gratuita",
+    "total": "Totale",
+    "pay_now": "Paga ora in modo sicuro",
+    "secure_payment": "Pagamento sicuro con Stripe."
+  },
+  "favorites_page": {
+    "title": "I Miei Preferiti",
+    "description": "La tua selezione personale di articoli.",
+    "empty_title": "La tua lista dei desideri è vuota",
+    "empty_message": "Aggiungi gli articoli che ami per salvarli qui.",
+    "discover_button": "Scopri i Nostri Prodotti"
+  },
+  "orders_page": {
+    "title": "I Miei Ordini",
+    "description": "Controlla lo storico dei tuoi ordini.",
+    "no_orders": "Non hai ancora effettuato ordini."
+  },
+  "profile_page": {
+    "title": "Profilo",
+    "description": "Gestisci le informazioni del tuo account.",
+    "coming_soon": "La gestione del profilo sarà disponibile a breve."
+  },
+  "account_layout": {
+    "title": "Il Mio Account",
+    "profile": "Profilo",
+    "orders": "I Miei Ordini",
+    "favorites": "I Miei Preferiti"
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "description": "Trova le risposte alle tue domande più comuni.",
+    "shipping": {
+      "question": "Quali sono le opzioni di spedizione?",
+      "answer": "Offriamo la spedizione standard gratuita (3-5 giorni lavorativi) su tutti gli ordini. La spedizione espressa (1-2 giorni lavorativi) è disponibile a un costo aggiuntivo."
+    },
+    "returns": {
+      "question": "Come posso restituire un articolo?",
+      "answer": "Puoi restituire qualsiasi articolo gratuitamente entro 30 giorni dal ricevimento. Visita il nostro portale dei resi per avviare la procedura."
+    },
+    "sizing": {
+      "question": "Come trovo la mia taglia giusta?",
+      "answer": "Ogni pagina prodotto include una guida alle taglie dettagliata con misure specifiche. Se non sei sicuro, non esitare a contattare il nostro servizio clienti per una consulenza personale."
+    },
+    "care": {
+      "question": "Come mi prendo cura dei miei articoli?",
+      "answer": "Le istruzioni per la cura sono disponibili sull'etichetta di ogni articolo e nella sezione 'Dettagli e Cura' della pagina del prodotto. Per materiali delicati come cashmere o seta, consigliamo il lavaggio a secco professionale."
+    },
+    "contact": {
+      "question": "Come posso contattarvi?",
+      "answer": "Il nostro servizio clienti è disponibile via email all'indirizzo service@ezentials.com o tramite il nostro modulo di contatto. Ci impegniamo a rispondere a tutte le richieste entro 24 ore."
+    }
+  },
+  "product_page": {
+    "reviews_count": "recensioni",
+    "color": "Colore",
+    "select_color": "Seleziona colore",
+    "size": "Taglia",
+    "add_to_cart": "Aggiungi al carrello",
+    "add_to_favorites": "Aggiungi ai preferiti",
+    "favorited": "Nei preferiti",
+    "favorite": "Preferito",
+    "details_care": "Dettagli e Cura",
+    "default_details": "Composizione: 80% Raso, 20% Seta. Lavare solo a mano. Non asciugare in asciugatrice.",
+    "shipping_returns": "Spedizione e Resi",
+    "shipping_details": "Spedizione standard gratuita entro 3-5 giorni lavorativi. Resi gratuiti entro 30 giorni.",
+    "customer_reviews": "Recensioni dei clienti",
+    "what_customers_say": "Cosa dicono i nostri clienti",
+    "cancel_review": "Annulla",
+    "write_review": "Scrivi una recensione",
+    "share_opinion": "Condividi la tua opinione",
+    "your_name": "Il tuo nome",
+    "name_placeholder": "es. Mario Rossi",
+    "your_rating": "La tua valutazione",
+    "your_comment": "Il tuo commento",
+    "comment_placeholder": "Descrivi la tua esperienza...",
+    "submit_review": "Invia recensione",
+    "be_the_first_review": "Sii il primo a lasciare una recensione per questo prodotto!",
+    "toast": {
+      "favorite_added_title": "Aggiunto ai preferiti",
+      "favorite_added_desc": "è stato aggiunto alla tua lista dei preferiti.",
+      "favorite_removed_title": "Rimosso dai preferiti",
+      "favorite_removed_desc": "è stato rimosso dalla tua lista dei preferiti.",
+      "review_submitted_title": "Recensione inviata",
+      "review_submitted_desc": "Grazie per aver condiviso la tua esperienza."
+    }
+  },
+  "login_form": {
+    "title": "Accedi",
+    "description": "Inserisci la tua email qui sotto per accedere al tuo account.",
+    "error_title": "Errore di accesso",
+    "password": "Password",
+    "submit_button": "Accedi",
+    "forgot_password": "Hai dimenticato la password?",
+    "no_account": "Non hai un account?",
+    "signup_link": "Registrati",
+    "password_reset_error_title": "Errore di reimpostazione della password",
+    "password_reset_error_desc": "Inserisci un indirizzo email valido.",
+    "password_reset_success_title": "Email di reimpostazione della password inviata",
+    "password_reset_success_desc": "Controlla la tua casella di posta per ulteriori istruzioni."
+  },
+  "signup_form": {
+    "title": "Registrati",
+    "description": "Crea un account per godere di un'esperienza personalizzata.",
+    "error_title": "Errore di registrazione",
+    "full_name": "Nome e cognome",
+    "full_name_placeholder": "Nome Cognome",
+    "password": "Password",
+    "submit_button": "Crea account",
+    "already_have_account": "Hai già un account?",
+    "login_link": "Accedi",
+    "success_title": "Account creato con successo",
+    "success_description": "È stata inviata un'email di verifica. Controlla la tua casella di posta.",
+    "error_email_in_use": "Questo indirizzo email è già in uso.",
+    "error_generic": "Si è verificato un errore durante la creazione dell'account."
+  },
+  "ai_stylist": {
+    "title": "Il Tuo Stilista Personale AI",
+    "description": "Descrivi il tuo stile e noi cureremo una selezione personalizzata per te, ispirata alle tue abitudini di navigazione.",
+    "form_label": "Quali sono le tue attuali preferenze e desideri di stile?",
+    "form_placeholder": "es. Mi piace uno stile minimalista, colori neutri e materiali naturali come lino e cotone. Sto cercando un outfit per un matrimonio estivo...",
+    "button_text": "Ottieni i Miei Consigli",
+    "error_title": "Errore",
+    "error_message": "Si è verificato un errore durante la generazione dei consigli.",
+    "results_title": "I Nostri Suggerimenti Per Te",
+    "browsing_history_example": "Articoli visualizzati: 'Abito da Sera Elegante' (Abbigliamento, Donna), 'Camicia di Lino' (Abbigliamento, Uomo), 'Borsa in Pelle' (Accessori, Donna). L'utente sembra interessato a stili eleganti e classici."
+  },
+  "privacy_policy": {
+    "title": "Informativa sulla Privacy",
+    "last_updated": "Ultimo aggiornamento: 24 maggio 2024",
+    "introduction": {
+      "title": "Introduzione",
+      "content": "Benvenuti in EZENTIALS. Rispettiamo la tua privacy e ci impegniamo a proteggere i tuoi dati personali. Questa informativa sulla privacy ti informerà su come gestiamo i tuoi dati personali quando visiti il nostro sito web."
+    },
+    "data_collected": {
+      "title": "Dati che raccogliamo su di te",
+      "content": "Potremmo raccogliere, utilizzare, archiviare e trasferire diversi tipi di dati personali su di te che abbiamo raggruppato come segue: Dati di identità, Dati di contatto, Dati finanziari, Dati di transazione, Dati tecnici, Dati del profilo e Dati di utilizzo."
+    },
+    "data_usage": {
+      "title": "Come utilizziamo i tuoi dati personali",
+      "content": "Utilizzeremo i tuoi dati personali solo per fornire e migliorare i nostri servizi, elaborare i tuoi ordini, gestire il tuo account, personalizzare la tua esperienza sul nostro sito e per comunicare con te."
+    },
+    "data_sharing": {
+      "title": "Condivisione dei dati",
+      "content": "Potremmo condividere i tuoi dati personali con terze parti per scopi specifici, come processori di pagamento e partner di consegna. Non condividiamo i tuoi dati con terze parti per scopi di marketing senza il tuo esplicito consenso."
+    },
+    "cookies": {
+      "title": "Cookie",
+      "content": "Il nostro sito Web utilizza i cookie per distinguerti dagli altri utenti del nostro sito Web. Questo ci aiuta a fornirti una buona esperienza quando navighi nel nostro sito Web e ci consente anche di migliorare il nostro sito."
+    },
+    "security": {
+      "title": "Sicurezza dei dati",
+      "content": "Abbiamo messo in atto misure di sicurezza appropriate per impedire che i tuoi dati personali vengano accidentalmente persi, utilizzati o consultati in modo non autorizzato, alterati o divulgati."
+    },
+    "user_rights": {
+      "title": "I tuoi diritti legali",
+      "content": "In determinate circostanze, hai diritti ai sensi delle leggi sulla protezione dei dati in relazione ai tuoi dati personali, incluso il diritto di accesso, rettifica, cancellazione, limitazione del trattamento, opposizione al trattamento e portabilità dei dati."
+    },
+    "contact": {
+      "title": "Contattaci",
+      "content": "In caso di domande sulla presente informativa sulla privacy, contattaci all'indirizzo privacy@ezentials.com."
+    }
+  },
+  "terms_of_service": {
+    "title": "Termini di Servizio",
+    "last_updated": "Ultimo aggiornamento: 24 maggio 2024",
+    "agreement": {
+      "title": "Accettazione dei termini",
+      "content": "Accedendo o utilizzando il nostro Servizio, accetti di essere vincolato da questi Termini. Se non sei d'accordo con qualsiasi parte dei termini, non puoi accedere al Servizio."
+    },
+    "accounts": {
+      "title": "Account",
+      "content": "Quando crei un account con noi, devi fornirci informazioni accurate, complete e aggiornate in ogni momento. La mancata osservanza di ciò costituisce una violazione dei Termini, che può comportare la risoluzione immediata del tuo account sul nostro Servizio."
+    },
+    "products": {
+      "title": "Prodotti",
+      "content": "Abbiamo fatto ogni sforzo per visualizzare nel modo più accurato possibile i colori e le immagini dei nostri prodotti che appaiono nel negozio. Non possiamo garantire che la visualizzazione di qualsiasi colore sul monitor del tuo computer sia accurata. Tutte le descrizioni dei prodotti o i prezzi dei prodotti sono soggetti a modifiche in qualsiasi momento senza preavviso, a nostra esclusiva discrezione."
+    },
+    "payments": {
+      "title": "Pagamenti",
+      "content": "Ci riserviamo il diritto di rifiutare qualsiasi ordine effettuato con noi. Possiamo, a nostra esclusiva discrezione, limitare o annullare le quantità acquistate per persona, per nucleo familiare o per ordine. Nel caso in cui apportiamo una modifica o annulliamo un ordine, potremmo tentare di avvisarti contattando l'e-mail e/o l'indirizzo di fatturazione/numero di telefono forniti al momento dell'ordine."
+    },
+    "intellectual_property": {
+      "title": "Proprietà intellettuale",
+      "content": "Il Servizio e il suo contenuto originale, le sue caratteristiche e le sue funzionalità sono e rimarranno di proprietà esclusiva di EZENTIALS e dei suoi licenziatari. Il Servizio è protetto da copyright, marchi di fabbrica e altre leggi sia del Paese che di paesi stranieri."
+    },
+    "limitation_of_liability": {
+      "title": "Limitazione di responsabilità",
+      "content": "In nessun caso EZENTIALS, né i suoi direttori, dipendenti, partner, agenti, fornitori o affiliati, saranno responsabili per eventuali danni indiretti, incidentali, speciali, consequenziali o punitivi, inclusi, a titolo esemplificativo, perdita di profitti, dati, utilizzo, avviamento o altre perdite immateriali."
+    },
+    "governing_law": {
+      "title": "Legge applicabile",
+      "content": "I presenti Termini saranno disciplinati e interpretati in conformità con le leggi del Paese, senza riguardo alle sue disposizioni sui conflitti di legge."
+    },
+    "contact": {
+      "title": "Contattaci",
+      "content": "In caso di domande sui presenti Termini, contattaci all'indirizzo legal@ezentials.com."
+    }
+  },
+  "products": {
+    "monarque_blazer": {
+      "name": "Blazer Doppio Petto 'Il Diplomatico'",
+      "description": "Un capolavoro di eleganza maschile. Realizzato in lana vergine italiana, il suo taglio strutturato a doppio petto offre un look deciso e sofisticato.",
+      "details": "Lana vergine italiana Super 120s. Fodera in cupro traspirante. Bottoni in corno autentico. Solo lavaggio a secco."
+    },
+    "aquila_suit": {
+      "name": "Abito 'Eredità' in Lana e Seta",
+      "description": "Un abito eccezionale per occasioni speciali. La miscela di lana e seta conferisce a questo tre pezzi un drappeggio perfetto e una lucentezza discreta, firma di un lusso sobrio.",
+      "details": "Misto 85% lana, 15% seta. Include giacca, gilet e pantaloni. Finiture interamente a mano dai nostri sarti."
+    },
+    "pur_shirt": {
+      "name": "Camicia 'L'Essenziale' in Cotone Pima",
+      "description": "La camicia bianca, reinventata. Tessuta in cotone Pima peruviano eccezionalmente morbido, presenta un colletto alla francese e rinforzi laterali per una maggiore durata.",
+      "details": "100% Cotone Pima peruviano. Colletto alla francese, polsini doppi. Bottoni in madreperla australiana. Vestibilità slim."
+    },
+    "nord_coat": {
+      "name": "Cappotto 'Stoccolma' in Cashmere",
+      "description": "L'eleganza scandinava al suo meglio. Questo cappotto lungo dal taglio minimalista in puro cashmere ti avvolge di calore e morbidezza. Un investimento per la vita.",
+      "details": "100% Cashmere mongolo. Sfoderato per una leggerezza impareggiabile. Revers a lancia e tasche a filetto."
+    },
+    "elegance_dress": {
+      "name": "Abito 'Celeste' in Crêpe di Seta",
+      "description": "Un'ode alla femminilità. Questo abito lungo in pura crêpe di seta fluttua ad ogni passo. La sua scollatura drappeggiata e la schiena scoperta discreta lo rendono un pezzo indimenticabile.",
+      "details": "100% Crêpe di Seta. Taglio fluido e sbieco. Fodera in seta. Solo lavaggio a secco specializzato."
+    },
+    "madame_suit": {
+      "name": "Tailleur 'Signature' in Tweed",
+      "description": "L'epitome dello chic parigino. Una giacca corta e una gonna dritta realizzate in un esclusivo tweed francese, impreziosite da bottoni gioiello.",
+      "details": "Tweed francese esclusivo. Giacca corta e gonna dritta. Fodera completa in raso di seta. Bottoni placcati in oro."
+    },
+    "rosee_blouse": {
+      "name": "Blusa 'Giardino Segreto' in Pizzo di Calais",
+      "description": "Un tesoro di delicatezza. Realizzata in autentico pizzo di Calais-Caudry®, questa blusa a collo alto è un capolavoro dell'artigianato francese.",
+      "details": "Autentico Pizzo di Calais-Caudry®. Fornita con un top in seta abbinato. Chiusura posteriore con piccoli bottoni ricoperti."
+    },
+    "velours_coat": {
+      "name": "Cappotto 'Abbraccio' in Alpaca Suri",
+      "description": "Un bozzolo di lussuosa morbidezza. Il pelo lungo e setoso dell'alpaca Suri conferisce a questo cappotto a vestaglia un calore e una leggerezza eccezionali. Cintura abbinata.",
+      "details": "100% Alpaca Suri peruviana. Sfoderato, finiture cucite a mano. Taglio a vestaglia con cintura rimovibile."
+    },
+    "sculpt_dress": {
+      "name": "Abito 'Architettonico' in Jersey Tecnico",
+      "description": "Una seconda pelle scultorea. Questo abito a tubino midi in jersey tecnico italiano abbraccia ed esalta la figura senza mai costringere. Un pezzo moderno e potente.",
+      "details": "Jersey tecnico italiano ad alte prestazioni. Taglio a tubino, lunghezza midi. Chiusura con zip invisibile sul retro."
+    },
+    "forge_jeans": {
+      "name": "Jeans Dritti 'Il Grezzo' Selvedge Giapponese",
+      "description": "L'autenticità di un vero jeans. Tagliato da un denim selvedge giapponese da 14,5 once, questo jeans grezzo svilupperà una patina nel tempo per diventare un pezzo unico, il tuo.",
+      "details": "Denim selvedge giapponese da 14,5 once. Taglio dritto classico. Chiusura a bottoni. Cuciture a catenella."
+    },
+    "ezential_bag": {
+      "name": "Borsa 'La Quotidiana' in Pelle Taurillon",
+      "description": "Lusso funzionale. Questa borsa a spalla in pelle taurillon francese è tanto morbida quanto resistente. I suoi molteplici scomparti la rendono la compagna ideale per tutti i giorni.",
+      "details": "Pelle Taurillon francese. Fodera in suedette. Parti metalliche con finitura in palladio. Tracolla regolabile."
+    },
+    "eclipse_heels": {
+      "name": "Décolleté 'Vertigine' in Camoscio 105mm",
+      "description": "La quintessenza dello stiletto. Un arco perfetto e un tacco di 10,5 cm che allunga la gamba all'infinito. Realizzato in intenso camoscio di capretto nero.",
+      "details": "100% camoscio di capretto italiano. Tacco da 10,5 cm. Soletta e suola in pelle."
+    },
+    "souverain_oxfords": {
+      "name": "Oxford 'L'Ambasciatore' a Pezzo Unico",
+      "description": "Eleganza al suo apice. Questa scarpa Oxford è realizzata da un unico pezzo di pelle di vitello, un'impresa tecnica. Patinata a mano nei nostri laboratori.",
+      "details": "Costruzione a pezzo unico. Pelle di vitello francese. Cucitura Blake. Patinatura a mano su richiesta."
+    },
+    "soir_blazer": {
+      "name": "Giacca da Smoking 'Notturno'",
+      "description": "Eleganza da sera. Una giacca da smoking in velluto di seta con collo a scialle in raso. Il pezzo forte del tuo guardaroba formale.",
+      "details": "Velluto di seta e raso. Collo a scialle. Un bottone ricoperto di raso. Fodera in jacquard."
+    },
+    "silence_turtleneck": {
+      "name": "Dolcevita 'Silenzio' in Cashmere e Seta",
+      "description": "Una carezza sulla pelle. Questo dolcevita, lavorato a maglia in una miscela ultraleggera di cashmere e seta, è di un comfort assoluto e di una versatilità impeccabile.",
+      "details": "70% Cashmere, 30% Seta. Maglia a calibro fine. Polsini e vita a costine."
+    },
+    "cache_chino": {
+      "name": "Chino 'Il Passeggiatore' in Gabardine di Cotone",
+      "description": "L'alternativa casual ai pantaloni da abito. Il nostro chino è tagliato da una gabardine di cotone elasticizzato per un comfort ottimale, con una vestibilità slim e finiture sartoriali.",
+      "details": "Gabardine di cotone elasticizzato. Chiusura con gancio e zip. Tasche all'italiana. Vestibilità slim."
+    },
+    "atlas_parka": {
+      "name": "Parka 'Esploratore' Tecnico",
+      "description": "Performance con stile. Questo parka è realizzato in un tessuto tecnico giapponese a triplo strato, impermeabile e traspirante. Cuciture termosaldate.",
+      "details": "Tessuto tecnico giapponese a triplo strato. Cuciture termosaldate. Cappuccio rimovibile. Molteplici tasche di sicurezza."
+    },
+    "cuiron_jacket": {
+      "name": "Giacca 'Ribelle' in Pelle di Agnello Plongé",
+      "description": "Un'icona reinventata. Questa giacca da motociclista è tagliata in una pelle di agnello plongé eccezionalmente morbida che invecchierà magnificamente nel tempo.",
+      "details": "Pelle di agnello plongé. Cerniere Riri e dettagli in palladio. Fodera in raso trapuntato."
+    },
+    "pluie_royale_trench": {
+      "name": "Trench 'Westminster'",
+      "description": "Un classico senza tempo. Il nostro trench è realizzato in gabardine di cotone impermeabile, con tutti i dettagli tradizionali: patte antipioggia, cintura e spalline.",
+      "details": "Gabardine di cotone idrorepellente. Fodera a quadri caratteristica. Bottoni in corno. Taglio classico."
+    },
+    "breeze_vest": {
+      "name": "Gilet Trapuntato 'Zefiro'",
+      "description": "Il capo ideale per la mezza stagione. Ultraleggero, questo gilet senza maniche è imbottito con piumino d'oca di alta qualità per un calore mirato senza ingombro.",
+      "details": "Tessuto micro-ripstop giapponese. Imbottitura in piumino d'oca 90/10. Si ripiega nella propria tasca."
+    },
+    "azur_shirt": {
+      "name": "Camicia 'Riviera' in Lino Irlandese",
+      "description": "L'eleganza estiva per eccellenza. Tessuta con il miglior lino irlandese, questa camicia offre una freschezza e una consistenza uniche che migliorano ad ogni lavaggio.",
+      "details": "100% Lino irlandese. Vestibilità rilassata. Bottoni in madreperla. Lavata per una maggiore morbidezza."
+    },
+    "nocturne_tuxedo": {
+      "name": "Smoking 'Gran Sera' in Barathea",
+      "description": "Per momenti indimenticabili. Questo smoking è tagliato in una tradizionale lana barathea con un revers in raso di seta. La quintessenza dell'eleganza formale.",
+      "details": "Lana barathea. Revers e profili in raso di seta. Pantaloni con banda laterale in raso."
+    },
+    "rivage_shorts": {
+      "name": "Bermuda 'Capri' in Tela di Lino",
+      "description": "Chic casual per l'estate. Questi bermuda a pieghe sono tagliati da una miscela di lino e viscosa for un drappeggio impeccabile e resistenza alle pieghe.",
+      "details": "Misto lino e viscosa. Vita alta con pieghe. Chiusura con gancio e zip."
+    },
+    "heritage_cardigan": {
+      "name": "Cardigan 'Clubhouse' in Lana Merino",
+      "description": "Un capo versatile, a metà tra formale e casual. Questo cardigan con collo a scialle è lavorato a maglia in lana merino extrafine, con bottoni in pelle intrecciata.",
+      "details": "100% Lana Merino extrafine. Collo a scialle. Tasche applicate. Bottoni in pelle intrecciata."
+    },
+    "folio_shirt": {
+      "name": "Camicia 'Giardino d'Inverno' in Viscosa",
+      "description": "Un tocco di audacia. Questa camicia a maniche corte presenta una stampa floreale esclusiva su una viscosa fluida e leggera, perfetta per le giornate di sole.",
+      "details": "100% Viscosa fluida. Stampa esclusiva. Colletto cubano. Taglio dritto."
+    },
+    "ete_palais_suit": {
+      "name": "Abito Estivo 'Sprezzatura' in Lino e Cotone",
+      "description": "Eleganza estiva all'italiana. La struttura destrutturata e la miscela lino-cotone rendono questo abito incredibilmente leggero e traspirante, senza sacrificare lo stile.",
+      "details": "Misto Lino e Cotone. Giacca sfoderata, spalle naturali. Tasche applicate."
+    },
+    "atelier_sweatshirt": {
+      "name": "Felpa 'L'Artista' in Cotone Loopback",
+      "description": "Il comfort elevato a forma d'arte. Realizzata in cotone loopback giapponese (French Terry), questa felpa ha una vestibilità leggermente oversize e cuciture piatte per un comfort assoluto.",
+      "details": "Cotone loopback giapponese (French Terry). Cuciture piatte. Bordi a costine robusti."
+    },
+    "verite_bomber": {
+      "name": "Bomber 'Aviatore' in Camoscio di Capra",
+      "description": "Un lusso tattile. Questo bomber è realizzato in vellutato camoscio di capra, offrendo un'alternativa sofisticata alla classica pelle. Fodera in seta.",
+      "details": "Camoscio di capra. Cerniera Riri a due vie. Bordi a costine in lana e cashmere."
+    },
+    "elan_polo": {
+      "name": "Polo 'Lo Sportivo' in Piqué di Cotone Sea Island",
+      "description": "La polo, perfezionata. Lavorata a maglia con il rarissimo cotone Sea Island, questa polo offre una morbidezza e una lucentezza setosa ineguagliabili. Colletto e abbottonatura a costine.",
+      "details": "100% Cotone Sea Island. Abbottonatura a due bottoni in madreperla. Spacchetti laterali."
+    },
+    "nuage_hoodie": {
+      "name": "Felpa con Cappuccio 'Bozzolo' in Cashmere Double-Face",
+      "description": "Il culmine del loungewear di lusso. Questa felpa con cappuccio è lavorata a maglia in puro cashmere double-face, offrendo una morbidezza tanto squisita all'interno quanto all'esterno.",
+      "details": "100% Cashmere double-face. Cappuccio foderato. Coulisse con puntali in metallo."
+    },
+    "business_suit": {
+      "name": "Abito 'Business' in Lana Fresco",
+      "description": "L'abito da viaggio per eccellenza. La lana Fresco a trama aperta è naturalmente resistente alle pieghe e traspirante, ideale per rimanere impeccabili tutto il giorno.",
+      "details": "Lana Fresco ad alta torsione. Costruzione a mezza tela. Fodera parziale per la traspirabilità."
+    },
+    "expedition_parka": {
+      "name": "Parka 'Artico' in Ventile e Piumino",
+      "description": "La massima protezione contro gli elementi. Guscio esterno in cotone Ventile®, un materiale naturale impermeabile, e generosa imbottitura in piumino d'oca da 850 fill power.",
+      "details": "Cotone Ventile® impermeabile. Piumino d'oca da 850 Fill Power. Cappuccio bordato di pelliccia di coyote rimovibile (di origine etica)."
+    },
+    "metro_jumpsuit": {
+      "name": "Tuta 'Urbana' in Tela di Lana",
+      "description": "Una dichiarazione di stile moderno. Questa tuta di ispirazione workwear è tagliata in una morbida tela di lana per un look che è sia chic che casual.",
+      "details": "Tela di lana leggera. Chiusura con zip nascosta. Cintura abbinata. Molteplici tasche funzionali."
+    },
+    "constellation_dress": {
+      "name": "Abito da Sera 'Notte Stellata'",
+      "description": "Cattura la luce. Interamente ricamato a mano con perline e cristalli su tulle di seta, questo abito da sera è una vera opera d'arte.",
+      "details": "Tulle di seta ricamato a mano con perline e cristalli. Richiede centinaia di ore di lavoro. Pezzo unico su ordinazione."
+    },
+    "lueur_top": {
+      "name": "Top 'Drappo Divino' in Raso di Seta",
+      "description": "La semplicità magnificata. Un semplice top in raso di seta pesante, con uno scollo a barchetta che cade a cascata con una grazia infinita.",
+      "details": "100% Raso di Seta pesante. Taglio sbieco per un drappeggio perfetto. Spalline sottili."
+    },
+    "etoile_jeans": {
+      "name": "Jeans Slim 'Il Parigino'",
+      "description": "I jeans slim perfetti. Tagliati in denim elasticizzato italiano di alta qualità, scolpiscono la gamba senza comprimere, per una silhouette snella e confortevole.",
+      "details": "Denim elasticizzato italiano. Vita media. Lavaggio discreto fatto a mano."
+    },
+    "noir_chic_jumpsuit": {
+      "name": "Tuta 'St-Germain' in Crêpe",
+      "description": "L'alternativa moderna al tubino nero. Una tuta impeccabilmente tagliata in crêpe pesante, con gambe larghe e vita definita.",
+      "details": "Crêpe di raso. Gambe larghe. Cintura rimovibile. Scollo a portafoglio."
+    },
+    "ballet_skirt": {
+      "name": "Gonna 'Opera' in Tulle Plissettato a Sole",
+      "description": "Leggerezza e movimento. Questa gonna lunga è realizzata con diversi strati di tulle plissettato a sole, creando un volume arioso e poetico.",
+      "details": "Tulle fine plissettato a sole. Cintura in gros-grain. Fodera in crêpe di seta."
+    },
+    "seraphine_sweater": {
+      "name": "Maglione 'Serenità' in Cashmere Traforato",
+      "description": "Una maglia squisitamente fine. Questo maglione con scollo a barca è realizzato in cashmere ultraleggero con una delicata lavorazione traforata, che rivela sottilmente la pelle.",
+      "details": "100% Cashmere a 2 fili. Maglia traforata. Vestibilità leggermente ampia."
+    },
+    "chic_urbain_jacket": {
+      "name": "Giacca 'Rive Gauche' in Tweed Bouclé",
+      "description": "Un classico senza tempo dello chic francese. Tessuta in un bouclé di lana e cotone, questa giacca corta si distingue per i suoi bordi intrecciati e i bottoni gioiello.",
+      "details": "Tweed bouclé. Quattro tasche applicate. Bordi intrecciati a mano. Fodera in seta."
+    },
+    "veloute_dress": {
+      "name": "Abito 'Carrozza' in Velluto di Seta",
+      "description": "Per un ingresso spettacolare. Questo abito lungo in velluto di seta devoré gioca con la trasparenza per un effetto glamour e misterioso. Spacco alto sulla coscia.",
+      "details": "Velluto di seta devoré. Fodera parziale. Spacco laterale. Spalline sottili incrociate sulla schiena."
+    },
+    "poeme_blouse": {
+      "name": "Camicetta 'Impressionista' in Twill di Seta",
+      "description": "Un capolavoro da indossare. Questa camicetta è stampata con un motivo floreale esclusivo su un sontuoso twill di seta, con un collo a foulard da annodare.",
+      "details": "100% Twill di Seta. Stampa esclusiva. Collo a foulard. Polsini abbottonati."
+    },
+    "palace_coat": {
+      "name": "Cappotto 'Maestoso' in Pelliccia Sintetica",
+      "description": "Glamour hollywoodiano. Un opulento cappotto in pelliccia sintetica di qualità e morbidezza sbalorditive. Volume oversize e un ampio collo a scialle.",
+      "details": "Pelliccia sintetica di alta qualità. Taglio oversize. Chiusura con ganci invisibili. Fodera in raso."
+    },
+    "soutien_briefs": {
+      "name": "Body 'Seconda Pelle' in Microfibra",
+      "description": "La perfezione invisibile. Questo body senza cuciture in microfibra ultra fine leviga e modella la silhouette con discrezione sotto i vestiti più aderenti.",
+      "details": "Microfibra tecnica senza cuciture. Effetto modellante leggero. Chiusura con bottoni a pressione sul cavallo."
+    },
+    "maison_cardigan": {
+      "name": "Cardigan 'Domenica' a Coste Inglesi",
+      "description": "Il compagno ideale per i tuoi momenti di relax. Un cardigan lungo e avvolgente, lavorato a maglia a coste inglesi grosse in una miscela di lana e alpaca.",
+      "details": "Misto lana e alpaca. Lavorazione a coste inglesi. Senza bottoni. Tasche applicate."
+    },
+    "matin_dress": {
+      "name": "Abito a Camicia 'Weekend' in Popeline",
+      "description": "Chic senza sforzo. Un abito a camicia dal taglio perfetto in popeline di cotone elasticizzato, da cinturare per definire la vita o da indossare dritto per un look più rilassato.",
+      "details": "Popeline di cotone elasticizzato. Cintura rimovibile. Tasche nascoste nelle cuciture."
+    },
+    "ete_rive_shorts": {
+      "name": "Shorts 'Saint-Tropez' in Raso Duchesse",
+      "description": "Un look sartoriale per l'estate. Questi shorts a vita alta con pieghe sono tagliati in un raso duchesse che conferisce loro una tenuta e una lucentezza eccezionali.",
+      "details": "Raso duchesse. Vita alta e pieghe. Tasche all'italiana. Risvolti."
+    },
+    "nuit_opera_pyjamas": {
+      "name": "Pigiama 'Sogno' in Seta e Pizzo",
+      "description": "Anche la notte merita eleganza. Un completo canotta e shorts in raso di seta, delicatamente intarsiato con pizzo di Calais sullo scollo e sull'orlo.",
+      "details": "Raso di seta e pizzo di Calais. Spalline regolabili. Shorts con elastico in vita."
+    },
+    "pluie_de_paris_trench": {
+      "name": "Trench 'Parigina' in Gabardine Fluido",
+      "description": "Una versione moderna e femminile del trench. La sua gabardine di cotone fluida e il taglio morbido gli conferiscono un aspetto meno rigoroso e più contemporaneo.",
+      "details": "Gabardine di cotone e Tencel. Sfoderato per una maggiore fluidità. Patta antipioggia e cintura rimovibile."
+    },
+    "executive_dress": {
+      "name": "Abito 'Working Girl' in Lana Fresca",
+      "description": "L'uniforme della donna di potere. Questo abito a tubino è realizzato in lana fresca antipiega, con scollo a barca e maniche a 3/4.",
+      "details": "Lana fresca Super 110s. Taglio aderente. Interamente foderato. Spacco posteriore per facilitare il movimento."
+    },
+    "sculpture_top": {
+      "name": "Bustier 'Gala' in Faille di Seta",
+      "description": "Un pezzo architettonico. Questo bustier è strutturato con stecche interne e tagliato in una rigida faille di seta per una silhouette da alta moda.",
+      "details": "Faille di seta. Struttura interna con stecche. Zip sul retro."
+    },
+    "voyage_parka": {
+      "name": "Mantella da Pioggia 'Nebbia' in Nylon Tecnico",
+      "description": "Eleganza sotto la pioggia. Una mantella ampia e ultraleggera in nylon tecnico giapponese, che si ripiega in una piccola pochette. Perfetta per viaggiare.",
+      "details": "Nylon tecnico giapponese impermeabile. Cuciture termosaldate. Cappuccio e taglio ampio."
+    },
+    "aube_dress": {
+      "name": "Abito Asimmetrico 'Aurora'",
+      "description": "Una scultura di tessuto. Questo abito da cocktail in crêpe gioca sui drappeggi e un taglio asimmetrico monospalla per un effetto spettacolare e moderno.",
+      "details": "Crêpe di raso. Taglio asimmetrico. Drappeggio a mano."
+    },
+    "lumi_clutch": {
+      "name": "Minaudière 'Gioiello' tempestata di Strass",
+      "description": "Più di una borsa, un gioiello. Questa minaudière rigida è interamente ricoperta di cristalli Swarovski, catturando la luce ad ogni movimento.",
+      "details": "Struttura in ottone. Cristalli Swarovski. Chiusura gioiello. Catenella rimovibile."
+    },
+    "carte_prime_holder": {
+      "name": "Portacarte 'Il Minimalista' in Pelle Epsom",
+      "description": "L'essenziale, con eleganza. Realizzato in pelle di vitello Epsom, nota per la sua resistenza, questo sottile portacarte si adatta a qualsiasi tasca.",
+      "details": "Pelle di vitello Epsom. Tre scomparti per carte. Scomparto centrale. Bordi dipinti a mano."
+    },
+    "finesse_belt": {
+      "name": "Cintura 'Il Fascino' in Pelle di Lucertola",
+      "description": "Il dettaglio che cambia tutto. Una cintura sottile in vera pelle di lucertola, con una fibbia discreta in ottone placcato palladio. Un lusso discreto.",
+      "details": "Vera pelle di lucertola. Fodera in pelle di vitello. Fibbia in ottone con finitura in palladio."
+    },
+    "minit_bag": {
+      "name": "Micro-Borsa 'L'Ammaliatore' in Camoscio di Capretto",
+      "description": "La piccola borsa che ha tutto. Abbastanza grande per l'essenziale (telefono, carte, rossetto), questa borsa in vellutata pelle di capra è l'accessorio da sera perfetto.",
+      "details": "Vellutata pelle di capra. Tracolla a catena e pelle. Chiusura magnetica."
+    },
+    "horizon_sunglasses": {
+      "name": "Occhiali da Sole 'Aviatore' in Titanio e Oro",
+      "description": "Un'icona rivisitata. Montatura ultraleggera in titanio giapponese, con dettagli placcati in oro 18 carati. Lenti polarizzate per una visione perfetta.",
+      "details": "Montatura in titanio. Placcatura in oro 18 carati. Lenti polarizzate con trattamento antiriflesso."
+    },
+    "nuit_scarf": {
+      "name": "Stola 'Dolce Notte' in Cashmere e Seta",
+      "description": "Una sciarpa di incredibile leggerezza e morbidezza. La miscela di cashmere e seta le conferisce un drappeggio fluido e un calore delicato.",
+      "details": "70% Cashmere, 30% Seta. Tessitura molto fine. Bordi con frange delicate. Dimensioni: 70x200cm."
+    },
+    "organize_pouch": {
+      "name": "Pochette 'Il Nomade' Tech in Pelle",
+      "description": "Organizza i tuoi essenziali tecnologici con stile. Questa morbida pochette in pelle è progettata per contenere cavi, caricatori e altri piccoli accessori.",
+      "details": "Morbida pelle di vitello. Scomparti elasticizzati. Fodera in microfibra."
+    },
+    "reflet_jewelry_set": {
+      "name": "Parure 'Goccia di Rugiada' in Topazio",
+      "description": "Un set di collana e orecchini di una finezza assoluta, che mette in risalto topazi blu taglio a pera su una montatura in oro bianco.",
+      "details": "Oro bianco 18 carati. Topazi blu 'Swiss Blue'. Catena Forçat."
+    },
+    "anchor_bracelet": {
+      "name": "Bracciale 'L'Ancora' in Pelle Intrecciata",
+      "description": "Un gioiello maschile casual. Questo bracciale è realizzato in pelle di vitello intrecciata e una chiusura a forma di ancora marina in acciaio inossidabile spazzolato.",
+      "details": "Pelle di vitello intrecciata. Chiusura ad ancora in acciaio 316L. Fatto a mano in Italia."
+    },
+    "etoile_earrings": {
+      "name": "Orecchini a Lobo 'Diamante Solitario'",
+      "description": "Pura brillantezza. Ogni orecchino è incastonato con un diamante da 0,25 carati, montato su oro bianco per la massima brillantezza. Un classico senza tempo.",
+      "details": "Oro bianco 18 carati. Due diamanti da 0,25ct ciascuno, qualità G/VS. Sistema di chiusura di sicurezza."
+    },
+    "ocean_necklace": {
+      "name": "Collana 'Perla Nera' di Tahiti",
+      "description": "La bellezza grezza e naturale di una perla nera di Tahiti, semplicemente sospesa a una sottile catena in oro rosa. Ogni perla è unica.",
+      "details": "Oro rosa 18 carati. Perla nera di Tahiti, grado AAA, diametro 9-10mm."
+    },
+    "sync_watch": {
+      "name": "Orologio Automatico 'Orizzonte Connesso'",
+      "description": "Il meglio di entrambi i mondi. Un orologio con movimento automatico svizzero, alloggiato in una cassa in titanio con un modulo di notifica discreto e integrato.",
+      "details": "Movimento automatico svizzero. Cassa in titanio grado 5. Vetro zaffiro. Cinturino intercambiabile."
+    },
+    "pluie_chic_umbrella": {
+      "name": "Ombrello 'Il Gentiluomo' in Legno d'Acero",
+      "description": "Affronta la pioggia con stile. Un unico fusto in legno d'acero, un'ampia tela idrorepellente e un'apertura manuale tradizionale per questo ombrello eccezionale.",
+      "details": "Fusto e manico in legno massello d'acero. Tela in poliestere ad alta densità. Prodotto in Francia."
+    },
+    "travel_safe_wallet": {
+      "name": "Portafoglio da Viaggio 'Il Globetrotter'",
+      "description": "Organizza il tuo viaggio. Progettato per contenere un passaporto, carte d'imbarco, valute e carte di credito in un elegante formato in pelle.",
+      "details": "Pelle di vitello pieno fiore. Protezione RFID. Scomparti multipli."
+    },
+    "riviera_hat": {
+      "name": "Cappello 'Costa Azzurra' in Paglia di Panama",
+      "description": "L'accessorio estivo per eccellenza. Intrecciato a mano in Ecuador, questo cappello di paglia di Panama protegge dal sole con un'eleganza senza pari. Nastro in gros-grain.",
+      "details": "Autentica paglia Toquilla (Panama). Intreccio fine. Nastro in gros-grain intercambiabile."
+    },
+    "smart_gloves": {
+      "name": "Guanti 'Tattili' in Pecari Foderati in Cashmere",
+      "description": "Lusso a portata di mano. Realizzati nella rarissima pelle di pecari e foderati in cashmere, questi guanti sono compatibili con gli schermi touch.",
+      "details": "Pelle di pecari. Fodera 100% cashmere. Tecnologia compatibile con touchscreen."
+    },
+    "ceremony_bowtie": {
+      "name": "Papillon 'Black Tie' in Faille di Seta",
+      "description": "L'accessorio indispensabile per l'abbigliamento da sera. Questo papillon da annodare è tagliato da una preziosa faille di seta nera.",
+      "details": "100% Faille di Seta. Da annodare. Misura regolabile."
+    },
+    "coin_purse": {
+      "name": "Portamonete 'Il Collezionista' con Chiusura a Scatto",
+      "description": "Un fascino retrò. Questo portamonete in morbida pelle di vitello si chiude con una classica chiusura a scatto in metallo. Ideale per le tue monete o i tuoi piccoli segreti.",
+      "details": "Morbida pelle di vitello. Chiusura in ottone invecchiato. Fodera in pelle di agnello."
+    },
+    "flora_brooch": {
+      "name": "Spilla 'Giglio' in Smalto",
+      "description": "Un tocco di poesia. Questa spilla, che rappresenta un giglio stilizzato, è realizzata con la tecnica dello smalto plique-à-jour, che ricorda le vetrate.",
+      "details": "Argento 925 placcato oro. Smalto plique-à-jour. Fatto a mano."
+    },
+    "luxband_headband": {
+      "name": "Fascia 'Musa' in Twill di Seta",
+      "description": "Un accessorio versatile. Da indossare tra i capelli, al collo o annodato alla borsa, questa fascia in twill di seta è stampata con un motivo esclusivo.",
+      "details": "100% Twill di Seta. Stampato su entrambi i lati. Dimensioni: 6 x 105 cm."
+    },
+    "lecteur_glasses": {
+      "name": "Occhiali da Lettura 'L'Intellettuale'",
+      "description": "Leggere con stile. Montatura in acetato di cellulosa italiano, con lenti di alta qualità trattate con antiriflesso e filtro luce blu.",
+      "details": "Acetato di cellulosa Mazzucchelli. Lenti con trattamento antiriflesso e filtro luce blu. Cerniere rivettate."
+    },
+    "charme_bag_charm": {
+      "name": "Charm per Borsa 'Il Grimoire'",
+      "description": "Personalizza la tua borsa. Questo charm per borsa rappresenta un minuscolo libro in pelle con pagine in ottone, sospeso a un moschettone con logo.",
+      "details": "Pelle e ottone. Moschettone in acciaio inciso."
+    },
+    "portfolio_laptop_case": {
+      "name": "Portadocumenti 'Il Ministro' in Pelle",
+      "description": "Trasporta il tuo computer e i tuoi documenti con eleganza. Questo sottile portadocumenti in pelle di vitello è leggermente imbottito per una protezione ottimale.",
+      "details": "Pelle di vitello. Scomparto principale imbottito per un computer da 13 pollici. Tasca esterna."
+    },
+    "keygold_keychain": {
+      "name": "Portachiavi 'Il Guardiano' in Pelle e Ottone",
+      "description": "Un oggetto di uso quotidiano trasformato in un gioiello. Un cinturino in pelle di vitello martellata abbinato a pezzi massicci in ottone spazzolato.",
+      "details": "Pelle di vitello e ottone massiccio. Anello a molla e moschettone."
+    },
+    "serenite_sandals": {
+      "name": "Sandali Bassi 'La Passeggiata' in Pelle",
+      "description": "Eleganza minimalista per l'estate. Questi sandali bassi con sottili cinturini in pelle di vitello sono il simbolo di uno chic casual e senza tempo.",
+      "details": "Pelle di vitello. Soletta imbottita. Prodotto in Italia."
+    },
+    "paris_boots": {
+      "name": "Stivaletti 'Rive Gauche' in Camoscio",
+      "description": "Lo stivaletto perfetto per tutti i giorni. Un comodo tacco a blocco da 6 cm, un'elegante forma a mandorla e un morbido camoscio di capra. Chic parigino.",
+      "details": "Camoscio di capra. Tacco a blocco da 6 cm. Chiusura con zip laterale."
+    },
+    "diva_mules": {
+      "name": "Mules 'Palazzo' in Raso e Cristalli",
+      "description": "Per serate in cui tutto è concesso. Questi mules a punta in raso sono adornati da una spettacolare fibbia quadrata in cristalli.",
+      "details": "Raso duchesse. Fibbia in cristalli Swarovski. Tacco piccolo da 2 cm."
+    },
+    "street_luxe_derby": {
+      "name": "Derby 'Avanguardia' con Zeppa",
+      "description": "Un classico stravolto. Il derby tradizionale è montato su una suola a zeppa carrarmato in microgomma ultraleggera, per un look audace.",
+      "details": "Pelle di vitello lucidata. Suola a zeppa in microgomma. Fodera in pelle."
+    },
+    "elite_derby": {
+      "name": "Derby 'Il Console' con Fibbia",
+      "description": "Un'alternativa originale al derby con lacci. Questo modello a fibbia singola (Monk Strap) in pelle di vitello martellata è sia formale che pieno di carattere.",
+      "details": "Pelle di vitello martellata. Cucitura Goodyear. Fibbia in ottone."
+    },
+    "club_loafer": {
+      "name": "Mocassino 'Lo Yachtsman' in Camoscio",
+      "description": "Il compagno ideale per i weekend di sole. Questo morbido mocassino in camoscio è montato su una suola con gommini per una flessibilità e un comfort ineguagliabili.",
+      "details": "Camoscio di vitello idrorepellente. Suola con gommini. Costruzione tubolare."
+    },
+    "tradition_brogues": {
+      "name": "Oxford 'Eredità' Full Brogue",
+      "description": "Un pilastro dell'eleganza britannica. Questo Oxford si distingue per le sue perforazioni decorative ('broguing') su tutta la scarpa. Un carattere deciso.",
+      "details": "Pelle di vitello 'box-calf'. Perforazioni full brogue. Cucitura Goodyear su suola in cuoio."
+    },
+    "citadin_boots": {
+      "name": "Stivaletto Chelsea 'Il Cittadino'",
+      "description": "Versatilità e stile. Una forma pulita, pelle di vitello liscia e robusti pannelli elastici rendono questo stivaletto Chelsea un must-have del guardaroba maschile.",
+      "details": "Pelle di vitello liscia. Cucitura Blake. Pannelli elastici laterali."
+    },
+    "runway_sneakers": {
+      "name": "Sneakers 'Il Minimalista' in Pelle",
+      "description": "La sneaker di lusso pulita. Realizzata in Italia in liscia pelle di vitello, la sua silhouette minimalista si abbina a qualsiasi outfit, da un abito a un jeans.",
+      "details": "Pelle di vitello italiana. Fodera interamente in pelle. Suola in gomma cucita."
+    }
+  }
+}
+    

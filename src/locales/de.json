@@ -1,0 +1,800 @@
+
+{
+  "nav": {
+    "women": "Damen",
+    "men": "Herren",
+    "clothing": "Kleidung",
+    "accessories": "Accessoires",
+    "ai_stylist": "KI-Stylist"
+  },
+  "header": {
+    "toggle_menu": "Menü umschalten",
+    "select_language": "Sprache auswählen",
+    "search": "Suche",
+    "favorites": "Favoriten",
+    "cart": "Warenkorb"
+  },
+  "user_nav": {
+    "my_account": "Mein Konto",
+    "profile": "Profil",
+    "logout": "Abmelden",
+    "login": "Anmelden",
+    "signup": "Registrieren"
+  },
+  "footer": {
+    "tagline": "Elegante Mode für Kenner.",
+    "shop": "Shop",
+    "help": "Hilfe",
+    "contact": "Kontakt",
+    "order_tracking": "Bestellverfolgung",
+    "returns": "Rücksendungen",
+    "faq": "FAQ",
+    "legal": "Rechtliches",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutzrichtlinie",
+    "rights_reserved": "Alle Rechte vorbehalten."
+  },
+  "hero": {
+    "title": "Eleganz Neu Definiert",
+    "subtitle": "Entdecken Sie exklusive Kollektionen, die zeitlosen Stil mit modernen Trends verbinden.",
+    "button": "Kollektion entdecken",
+    "alt": "Model in luxuriöser Kleidung"
+  },
+  "philosophy": {
+    "materials": {
+      "title": "Edle Materialien",
+      "description": "Wir wählen nur die edelsten Stoffe aus, von italienischem Kaschmir bis hin zu ägyptischer Baumwolle, für ein unvergleichliches Gefühl und eine lange Lebensdauer."
+    },
+    "craftsmanship": {
+      "title": "Handwerkskunst",
+      "description": "Jedes Stück ist das Ergebnis außergewöhnlicher Handwerkskunst, bei der traditionelle Techniken auf modernes Design treffen, um eine perfekte Verarbeitung zu gewährleisten."
+    },
+    "exclusivity": {
+      "title": "Exklusivität",
+      "description": "Unsere limitierten Kollektionen und exklusiven Stücke garantieren Ihnen einen einzigartigen Stil, der Sie von der Masse abhebt."
+    }
+  },
+  "home": {
+    "trending_products": "Trend-Produkte",
+    "trending_description": "Die begehrtesten Stücke der Saison.",
+    "view_all_products": "Alle Produkte ansehen",
+    "new_arrivals": "Neuheiten",
+    "new_arrivals_description": "Entdecken Sie die neuesten Ergänzungen unserer Kollektion.",
+    "testimonials": "Kundenstimmen",
+    "testimonials_description": "Was unsere Kunden über uns sagen.",
+    "maison_menu": {
+      "title": "Menü Maison",
+      "tailoring": {
+        "subtitle": "Präzision Sartoriale",
+        "title": "Atelier Tailoring",
+        "description": "Architektonische Anzüge und sartoriale Präzision.",
+        "cta": "Herren entdecken"
+      },
+      "couture": {
+        "subtitle": "Maison Lumière",
+        "title": "Couture & Soirée",
+        "description": "Fließende Kleider, leuchtende Seide und zeitgenössische Couture.",
+        "cta": "Damen entdecken"
+      },
+      "accessories": {
+        "subtitle": "Galerie Sélection",
+        "title": "Salon Accessoires",
+        "description": "Ikonische Taschen, unverkennbare Düfte und moderne Juwelen.",
+        "cta": "Accessoires entdecken"
+      }
+    }
+  },
+  "categories": {
+    "women": "Damen",
+    "men": "Herren"
+  },
+  "testimonial": {
+    "lena": {
+      "name": "Lena S.",
+      "quote": "Außergewöhnliche Qualität und ein unvergleichlicher Stil. EZENTIALS ist meine erste Anlaufstelle für Luxusmode geworden."
+    },
+    "felix": {
+      "name": "Felix K.",
+      "quote": "Endlich ein Shop, der männliche Eleganz versteht. Die Schnitte sind perfekt und die Materialien sehr angenehm."
+    },
+    "hannah": {
+      "name": "Hannah W.",
+      "quote": "Ich habe ein Kleid für eine Gala bestellt und eine Flut von Komplimenten erhalten. Auch der Kundenservice ist sehr reaktionsschnell."
+    }
+  },
+  "product_card": {
+    "add": "Hinzufügen",
+    "add_to_favorites": "Zu Favoriten hinzufügen"
+  },
+  "product_grid": {
+    "no_products": "Keine Produkte gefunden."
+  },
+  "search": {
+    "title": "Produkte suchen",
+    "placeholder": "Suchen Sie nach einem Blazer, einem Kleid...",
+    "no_results": "Keine Ergebnisse für Ihre Suche gefunden."
+  },
+  "products_page": {
+    "title": "Alle Kollektionen",
+    "description": "Durchsuchen Sie unseren kompletten Katalog luxuriöser Kleidung und Accessoires."
+  },
+  "women_page": {
+    "title": "Damenkollektion",
+    "description": "Eleganz und Raffinesse für die moderne Frau."
+  },
+  "men_page": {
+    "title": "Herrenkollektion",
+    "description": "Stil und Eleganz für den modernen Mann."
+  },
+  "clothing_page": {
+    "title": "Kleidung",
+    "description": "Entdecken Sie unsere Auswahl an Premium-Kleidung."
+  },
+  "accessories_page": {
+    "title": "Accessoires",
+    "description": "Der letzte Schliff für einen perfekten Stil."
+  },
+  "cart_page": {
+    "title": "Ihr Warenkorb",
+    "description": "Überprüfen Sie die Artikel in Ihrem Warenkorb, bevor Sie zur Kasse gehen.",
+    "empty_message": "Ihr Warenkorb ist derzeit leer.",
+    "continue_shopping": "Weiter einkaufen",
+    "items_placeholder": "Liste der Warenkorbartikel hier...",
+    "proceed_to_checkout": "Zur Kasse gehen",
+    "login_prompt_title": "Fast fertig!",
+    "login_prompt_desc_1": "Bitte",
+    "login_prompt_link": "melden Sie sich an",
+    "login_prompt_desc_2": "oder erstellen Sie ein Konto, um zur Kasse zu gehen."
+  },
+  "checkout_page": {
+    "title": "Kasse",
+    "description": "Schließen Sie Ihre Bestellung sicher ab.",
+    "coming_soon": "Der Bezahlvorgang wird derzeit erstellt.",
+    "shipping_address": "Lieferadresse",
+    "full_name": "Vollständiger Name",
+    "full_name_placeholder": "Max Mustermann",
+    "address": "Adresse",
+    "address_placeholder": "Musterstraße 123",
+    "city": "Stadt",
+    "zip_code": "Postleitzahl",
+    "country": "Land",
+    "payment_details": "Zahlungsdetails",
+    "card_number": "Kartennummer",
+    "expiry_date": "Ablaufdatum",
+    "cvc": "CVC",
+    "order_summary": "Bestellübersicht",
+    "subtotal": "Zwischensumme",
+    "shipping": "Versand",
+    "free": "Kostenlos",
+    "total": "Gesamt",
+    "pay_now": "Jetzt sicher bezahlen",
+    "secure_payment": "Sichere Zahlung mit Stripe."
+  },
+  "favorites_page": {
+    "title": "Meine Favoriten",
+    "description": "Ihre persönliche Auswahl an Artikeln.",
+    "empty_title": "Ihre Wunschliste ist leer",
+    "empty_message": "Fügen Sie Artikel hinzu, die Ihnen gefallen, um sie hier zu speichern.",
+    "discover_button": "Unsere Produkte entdecken"
+  },
+  "orders_page": {
+    "title": "Meine Bestellungen",
+    "description": "Überprüfen Sie den Verlauf Ihrer Bestellungen.",
+    "no_orders": "Sie haben noch keine Bestellungen aufgegeben."
+  },
+  "profile_page": {
+    "title": "Profil",
+    "description": "Verwalten Sie Ihre Kontoinformationen.",
+    "coming_soon": "Die Profilverwaltung wird in Kürze verfügbar sein."
+  },
+  "account_layout": {
+    "title": "Mein Konto",
+    "profile": "Profil",
+    "orders": "Meine Bestellungen",
+    "favorites": "Meine Favoriten"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Antworten auf Ihre häufigsten Fragen.",
+    "shipping": {
+      "question": "Welche Versandoptionen gibt es?",
+      "answer": "Wir bieten kostenlosen Standardversand (3-5 Werktage) für alle Bestellungen. Expressversand (1-2 Werktage) ist gegen eine zusätzliche Gebühr verfügbar."
+    },
+    "returns": {
+      "question": "Wie kann ich einen Artikel zurückgeben?",
+      "answer": "Sie können jeden Artikel innerhalb von 30 Tagen nach Erhalt kostenlos zurücksenden. Bitte besuchen Sie unser Rücksendeportal, um den Vorgang zu starten."
+    },
+    "sizing": {
+      "question": "Wie finde ich meine richtige Größe?",
+      "answer": "Jede Produktseite enthält einen detaillierten Größenführer mit spezifischen Maßen. Wenn Sie sich nicht sicher sind, zögern Sie nicht, unseren Kundenservice für eine persönliche Beratung zu kontaktieren."
+    },
+    "care": {
+      "question": "Wie pflege ich meine Artikel?",
+      "answer": "Pflegehinweise finden Sie auf dem Etikett jedes Artikels und im Abschnitt „Details & Pflege“ auf der Produktseite. Für empfindliche Materialien wie Kaschmir oder Seide empfehlen wir eine professionelle Reinigung."
+    },
+    "contact": {
+      "question": "Wie kann ich Sie kontaktieren?",
+      "answer": "Unser Kundenservice-Team steht Ihnen per E-Mail unter service@ezentials.com oder über unser Kontaktformular zur Verfügung. Wir bemühen uns, alle Anfragen innerhalb von 24 Stunden zu beantworten."
+    }
+  },
+  "product_page": {
+    "reviews_count": "Bewertungen",
+    "color": "Farbe",
+    "select_color": "Farbe auswählen",
+    "size": "Größe",
+    "add_to_cart": "In den Warenkorb",
+    "add_to_favorites": "Zu Favoriten hinzufügen",
+    "favorited": "Favorit",
+    "favorite": "Favoriten",
+    "details_care": "Details & Pflege",
+    "default_details": "Zusammensetzung: 80% Satin, 20% Seide. Nur Handwäsche. Nicht im Trockner trocknen.",
+    "shipping_returns": "Versand & Rückgabe",
+    "shipping_details": "Kostenloser Standardversand innerhalb von 3-5 Werktagen. Kostenlose Rücksendung innerhalb von 30 Tagen.",
+    "customer_reviews": "Kundenbewertungen",
+    "what_customers_say": "Was unsere Kunden sagen",
+    "cancel_review": "Abbrechen",
+    "write_review": "Bewertung abgeben",
+    "share_opinion": "Teilen Sie Ihre Meinung",
+    "your_name": "Ihr Name",
+    "name_placeholder": "z.B. Jean Dupont",
+    "your_rating": "Ihre Note",
+    "your_comment": "Ihr Kommentar",
+    "comment_placeholder": "Beschreiben Sie Ihre Erfahrungen...",
+    "submit_review": "Bewertung abschicken",
+    "be_the_first_review": "Seien Sie der Erste, der eine Bewertung für dieses Produkt hinterlässt!",
+    "toast": {
+      "favorite_added_title": "Zu Favoriten hinzugefügt",
+      "favorite_added_desc": "wurde zu Ihrer Favoritenliste hinzugefügt.",
+      "favorite_removed_title": "Aus Favoriten entfernt",
+      "favorite_removed_desc": "wurde aus Ihrer Favoritenliste entfernt.",
+      "review_submitted_title": "Bewertung abgeschickt",
+      "review_submitted_desc": "Danke, dass Sie Ihre Erfahrung geteilt haben."
+    }
+  },
+  "login_form": {
+    "title": "Anmelden",
+    "description": "Geben Sie Ihre E-Mail-Adresse ein, um sich bei Ihrem Konto anzumelden.",
+    "error_title": "Anmeldefehler",
+    "password": "Passwort",
+    "submit_button": "Anmelden",
+    "forgot_password": "Passwort vergessen?",
+    "no_account": "Haben Sie kein Konto?",
+    "signup_link": "Registrieren",
+    "password_reset_error_title": "Fehler beim Zurücksetzen des Passworts",
+    "password_reset_error_desc": "Bitte geben Sie eine gültige E-Mail-Adresse an.",
+    "password_reset_success_title": "E-Mail zum Zurücksetzen des Passworts gesendet",
+    "password_reset_success_desc": "Überprüfen Sie Ihren Posteingang für weitere Anweisungen."
+  },
+  "signup_form": {
+    "title": "Registrieren",
+    "description": "Erstellen Sie ein Konto, um ein personalisiertes Erlebnis zu genießen.",
+    "error_title": "Registrierungsfehler",
+    "full_name": "Vollständiger Name",
+    "full_name_placeholder": "Vorname Nachname",
+    "password": "Passwort",
+    "submit_button": "Konto erstellen",
+    "already_have_account": "Haben Sie bereits ein Konto?",
+    "login_link": "Anmelden",
+    "success_title": "Konto erfolgreich erstellt",
+    "success_description": "Eine Bestätigungs-E-Mail wurde gesendet. Bitte überprüfen Sie Ihren Posteingang.",
+    "error_email_in_use": "Diese E-Mail-Adresse wird bereits verwendet.",
+    "error_generic": "Bei der Erstellung des Kontos ist ein Fehler aufgetreten."
+  },
+  "ai_stylist": {
+    "title": "Ihr persönlicher KI-Stylist",
+    "description": "Beschreiben Sie Ihren Stil und wir stellen Ihnen eine maßgeschneiderte Auswahl zusammen, inspiriert von Ihrem Surfverhalten.",
+    "form_label": "Was sind Ihre aktuellen Stilvorlieben und Wünsche?",
+    "form_placeholder": "z.B. Ich mag einen minimalistischen Stil, neutrale Farben und natürliche Materialien wie Leinen und Baumwolle. Ich suche ein Outfit für eine Sommerhochzeit...",
+    "button_text": "Meine Empfehlungen erhalten",
+    "error_title": "Fehler",
+    "error_message": "Beim Generieren der Empfehlungen ist ein Fehler aufgetreten.",
+    "results_title": "Unsere Vorschläge für Sie",
+    "browsing_history_example": "Angesehene Artikel: 'Elegantes Abendkleid' (Kleidung, Damen), 'Leinenhemd' (Kleidung, Herren), 'Lederhandtasche' (Accessoires, Damen). Der Benutzer scheint an eleganten und klassischen Stilen interessiert zu sein."
+  },
+  "privacy_policy": {
+    "title": "Datenschutzrichtlinie",
+    "last_updated": "Zuletzt aktualisiert: 24. Mai 2024",
+    "introduction": {
+      "title": "Einführung",
+      "content": "Willkommen bei EZENTIALS. Wir respektieren Ihre Privatsphäre und verpflichten uns, Ihre persönlichen Daten zu schützen. Diese Datenschutzrichtlinie informiert Sie darüber, wie wir Ihre persönlichen Daten verwalten, wenn Sie unsere Website besuchen."
+    },
+    "data_collected": {
+      "title": "Von uns erfasste Daten",
+      "content": "Wir können verschiedene Arten von persönlichen Daten über Sie erfassen, verwenden, speichern und übertragen, einschließlich Identitätsdaten, Kontaktdaten, Finanzdaten, Transaktionsdaten, technische Daten, Profildaten und Nutzungsdaten."
+    },
+    "data_usage": {
+      "title": "Wie wir Ihre Daten verwenden",
+      "content": "Wir verwenden Ihre persönlichen Daten, um Ihnen unsere Dienste bereitzustellen und zu verbessern, Ihre Bestellungen zu bearbeiten, Ihr Konto zu verwalten, unsere Website zu personalisieren und mit Ihnen zu kommunizieren."
+    },
+    "data_sharing": {
+      "title": "Weitergabe von Daten",
+      "content": "Wir können Ihre persönlichen Daten zu bestimmten Zwecken an Dritte weitergeben, z. B. an Zahlungsdienstleister und Lieferpartner. Wir geben Ihre Daten nicht zu Marketingzwecken an Dritte weiter, ohne Ihre ausdrückliche Zustimmung."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Unsere Website verwendet Cookies, um Sie von anderen Benutzern unserer Website zu unterscheiden. Dies hilft uns, Ihnen beim Surfen auf unserer Website eine gute Erfahrung zu bieten und ermöglicht uns auch, unsere Website zu verbessern."
+    },
+    "security": {
+      "title": "Datensicherheit",
+      "content": "Wir haben angemessene Sicherheitsmaßnahmen getroffen, um zu verhindern, dass Ihre persönlichen Daten versehentlich verloren gehen, verwendet oder auf unbefugte Weise abgerufen, geändert oder offengelegt werden."
+    },
+    "user_rights": {
+      "title": "Ihre gesetzlichen Rechte",
+      "content": "Unter bestimmten Umständen haben Sie datenschutzrechtliche Rechte in Bezug auf Ihre persönlichen Daten, einschließlich des Rechts auf Zugang, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch gegen die Verarbeitung und Datenübertragbarkeit."
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "content": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter privacy@ezentials.com."
+    }
+  },
+  "terms_of_service": {
+    "title": "Nutzungsbedingungen",
+    "last_updated": "Zuletzt aktualisiert: 24. Mai 2024",
+    "agreement": {
+      "title": "Zustimmung zu den Bedingungen",
+      "content": "Durch den Zugriff auf oder die Nutzung unseres Dienstes erklären Sie sich damit einverstanden, an diese Bedingungen gebunden zu sein. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, dürfen Sie nicht auf den Dienst zugreifen."
+    },
+    "accounts": {
+      "title": "Konten",
+      "content": "Wenn Sie ein Konto bei uns erstellen, müssen Sie uns jederzeit genaue, vollständige und aktuelle Informationen zur Verfügung stellen. Ein Verstoß gegen diese Bestimmung stellt einen Verstoß gegen die Bedingungen dar, der zur sofortigen Kündigung Ihres Kontos bei unserem Dienst führen kann."
+    },
+    "products": {
+      "title": "Produkte",
+      "content": "Wir bemühen uns, die Farben und Bilder unserer Produkte, die im Geschäft erscheinen, so genau wie möglich darzustellen. Wir können nicht garantieren, dass die Anzeige einer Farbe auf Ihrem Computermonitor korrekt ist. Alle Produktbeschreibungen oder Produktpreise können jederzeit ohne Vorankündigung nach unserem alleinigen Ermessen geändert werden."
+    },
+    "payments": {
+      "title": "Zahlungen",
+      "content": "Wir behalten uns das Recht vor, jede Bestellung, die Sie bei uns aufgeben, abzulehnen. Wir können nach unserem alleinigen Ermessen die pro Person, pro Haushalt oder pro Bestellung gekauften Mengen begrenzen oder stornieren. Im Falle einer Änderung oder Stornierung einer Bestellung können wir versuchen, Sie zu benachrichtigen, indem wir Sie über die zum Zeitpunkt der Bestellung angegebene E-Mail-Adresse und/oder Rechnungsadresse/Telefonnummer kontaktieren."
+    },
+    "intellectual_property": {
+      "title": "Geistiges Eigentum",
+      "content": "Der Dienst und sein ursprünglicher Inhalt, seine Merkmale und seine Funktionalität sind und bleiben das ausschließliche Eigentum von EZENTIALS und seinen Lizenzgebern. Der Dienst ist durch Urheber-, Marken- und andere Gesetze sowohl des Landes als auch ausländischer Länder geschützt."
+    },
+    "limitation_of_liability": {
+      "title": "Haftungsbeschränkung",
+      "content": "In keinem Fall haften EZENTIALS oder seine Direktoren, Mitarbeiter, Partner, Vertreter, Lieferanten oder verbundenen Unternehmen für indirekte, zufällige, besondere, Folge- oder Strafschäden, einschließlich, aber nicht beschränkt auf entgangenen Gewinn, Daten, Nutzung, Goodwill oder andere immaterielle Verluste."
+    },
+    "governing_law": {
+      "title": "Geltendes Recht",
+      "content": "Diese Bedingungen unterliegen den Gesetzen des Landes und werden in Übereinstimmung mit diesen ausgelegt, ohne Rücksicht auf seine Kollisionsnormen."
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "content": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter legal@ezentials.com."
+    }
+  },
+  "products": {
+    "monarque_blazer": {
+      "name": "Zweireihiger Blazer 'Der Diplomat'",
+      "description": "Ein Meisterstück männlicher Eleganz. Gefertigt aus italienischer Schurwolle, bietet sein strukturierter, zweireihiger Schnitt einen selbstbewussten und anspruchsvollen Look.",
+      "details": "Super 120s italienische Schurwolle. Atmungsaktives Cupro-Futter. Echte Hornknöpfe. Nur chemische Reinigung."
+    },
+    "aquila_suit": {
+      "name": "'Heritage' Anzug aus Wolle und Seide",
+      "description": "Ein außergewöhnlicher Anzug für besondere Anlässe. Die Mischung aus Wolle und Seide verleiht diesem Dreiteiler einen perfekten Fall und einen dezenten Glanz, das Markenzeichen von unaufdringlichem Luxus.",
+      "details": "85% Wolle, 15% Seidenmischung. Beinhaltet Jacke, Weste und Hose. Vollständig von unseren Schneidermeistern handgefertigt."
+    },
+    "pur_shirt": {
+      "name": "'Das Essentielle' Pima-Baumwollhemd",
+      "description": "Das weiße Hemd, neu erfunden. Gewebt aus außergewöhnlich weicher peruanischer Pima-Baumwolle, verfügt es über einen französischen Kragen und Seitenfalten für erhöhte Haltbarkeit.",
+      "details": "100% peruanische Pima-Baumwolle. Französischer Kragen, Umschlagmanschetten. Australische Perlmuttknöpfe. Schmale Passform."
+    },
+    "nord_coat": {
+      "name": "'Stockholm' Kaschmirmantel",
+      "description": "Skandinavische Eleganz in Reinkultur. Dieser lange, minimalistisch geschnittene Mantel aus reinem Kaschmir umhüllt Sie mit Wärme und Weichheit. Eine Investition fürs Leben.",
+      "details": "100% mongolischer Kaschmir. Ungefüttert für unvergleichliche Leichtigkeit. Reverskragen und Leistentaschen."
+    },
+    "elegance_dress": {
+      "name": "'Himmlisches' Seidenkreppkleid",
+      "description": "Eine Ode an die Weiblichkeit. Dieses lange Kleid aus reinem Seidenkrepp schwebt bei jedem Schritt. Sein drapierter Ausschnitt und der dezente offene Rücken machen es zu einem unvergesslichen Stück.",
+      "details": "100% Seidenkrepp. Fließender, schräger Schnitt. Seidenfutter. Nur chemische Spezialreinigung."
+    },
+    "madame_suit": {
+      "name": "'Signature' Tweed-Kostüm",
+      "description": "Die Verkörperung des Pariser Chics. Eine kurze Jacke und ein gerader Rock aus exklusivem französischen Tweed, veredelt mit schmuckähnlichen Knöpfen.",
+      "details": "Exklusiver französischer Tweed. Kurze Jacke und gerader Rock. Vollständiges Seidensatinfutter. Vergoldete Knöpfe."
+    },
+    "rosee_blouse": {
+      "name": "'Geheimer Garten' Calais-Spitzenbluse",
+      "description": "Ein Schatz der Zartheit. Gefertigt aus authentischer Calais-Caudry®-Spitze, ist diese hochgeschlossene Bluse ein Meisterwerk französischer Handwerkskunst.",
+      "details": "Authentische Calais-Caudry®-Spitze. Kommt mit passendem Seidentop. Rückenverschluss mit kleinen überzogenen Knöpfen."
+    },
+    "velours_coat": {
+      "name": "'Umarmung' Suri-Alpaka-Mantel",
+      "description": "Ein Kokon aus luxuriöser Weichheit. Das lange, seidige Haar des Suri-Alpakas verleiht diesem Bademantelmantel außergewöhnliche Wärme und Leichtigkeit. Passender Gürtel.",
+      "details": "100% peruanisches Suri-Alpaka. Ungefüttert, handgenähte Abschlüsse. Bademantelschnitt mit abnehmbarem Gürtel."
+    },
+    "sculpt_dress": {
+      "name": "'Architektonisches' Technisches Jersey-Kleid",
+      "description": "Eine skulpturale zweite Haut. Dieses Midi-Etuikleid aus italienischem technischem Jersey schmiegt sich an die Figur an und betont sie, ohne jemals einzuengen. Ein modernes und kraftvolles Stück.",
+      "details": "Hochleistungsfähiges italienisches technisches Jersey. Etuikleid-Schnitt, Midi-Länge. Unsichtbarer Reißverschluss hinten."
+    },
+    "forge_jeans": {
+      "name": "'Die Rohe' Japanische Selvedge Straight Jeans",
+      "description": "Die Authentizität einer echten Jeans. Geschnitten aus einem 14,5 Unzen schweren japanischen Selvedge-Denim, wird diese rohe Jeans mit der Zeit eine Patina entwickeln und zu einem einzigartigen Stück werden, Ihrem.",
+      "details": "14,5 Unzen japanischer Selvedge-Denim. Klassischer gerader Schnitt. Knopfleiste. Kettenstichsäume."
+    },
+    "ezential_bag": {
+      "name": "'Der Alltag' Taurillon-Ledertasche",
+      "description": "Funktionaler Luxus. Diese Schultertasche aus französischem Taurillon-Leder ist ebenso geschmeidig wie langlebig. Ihre zahlreichen Fächer machen sie zum idealen Alltagsbegleiter.",
+      "details": "Französisches Taurillon-Leder. Wildlederfutter. Metallteile mit Palladium-Finish. Verstellbarer Schultergurt."
+    },
+    "eclipse_heels": {
+      "name": "'Schwindel' 105mm Wildleder-Pumps",
+      "description": "Der Inbegriff des Stilettos. Ein perfekter Bogen und ein 10,5 cm hoher Absatz, der das Bein endlos verlängert. Hergestellt aus intensivem schwarzem Ziegenveloursleder.",
+      "details": "100% italienisches Ziegenveloursleder. 10,5 cm Absatz. Lederinnensohle und -laufsohle."
+    },
+    "souverain_oxfords": {
+      "name": "'Der Botschafter' One-Cut Oxford",
+      "description": "Eleganz in Perfektion. Dieser Oxford-Schuh wird aus einem einzigen Stück Kalbsleder gefertigt, eine technische Meisterleistung. Handpatiniert in unseren Werkstätten.",
+      "details": "One-Cut-Konstruktion. Französisches Kalbsleder. Blake-genäht. Handpatinierung auf Anfrage."
+    },
+    "soir_blazer": {
+      "name": "'Nocturne' Smoking-Jackett",
+      "description": "Abendliche Eleganz. Ein Samt-Smoking-Jackett mit einem Schalkragen aus Satin. Das Herzstück Ihrer formellen Garderobe.",
+      "details": "Seidensamt und Satin. Schalkragen. Ein mit Satin überzogener Knopf. Jacquard-Futter."
+    },
+    "silence_turtleneck": {
+      "name": "'Stille' Kaschmir- und Seiden-Rollkragenpullover",
+      "description": "Eine Liebkosung auf der Haut. Dieser Rollkragenpullover, gestrickt aus einer ultraleichten Mischung aus Kaschmir und Seide, bietet absoluten Komfort und makellose Vielseitigkeit.",
+      "details": "70% Kaschmir, 30% Seide. Feinstrick. Rippbündchen an Ärmeln und Taille."
+    },
+    "cache_chino": {
+      "name": "'Der Spaziergänger' Baumwoll-Gabardine-Chino",
+      "description": "Die lässige Alternative zur Anzughose. Unsere Chino ist aus einem Stretch-Baumwoll-Gabardine für optimalen Komfort geschnitten, mit einer schmalen Passform und maßgeschneiderten Details.",
+      "details": "Stretch-Baumwoll-Gabardine. Haken- und Reißverschluss. Italienische Taschen. Schmale Passform."
+    },
+    "atlas_parka": {
+      "name": "'Entdecker' Technischer Parka",
+      "description": "Leistung mit Stil. Dieser Parka ist aus einem dreilagigen japanischen technischen Gewebe gefertigt, wasserdicht und atmungsaktiv. Verschweißte Nähte.",
+      "details": "Dreilagiges japanisches technisches Gewebe. Verschweißte Nähte. Abnehmbare Kapuze. Mehrere sichere Taschen."
+    },
+    "cuiron_jacket": {
+      "name": "'Rebell' Plongé-Lammlederjacke",
+      "description": "Eine Ikone neu erfunden. Diese Bikerjacke ist aus außergewöhnlich geschmeidigem Plongé-Lammleder geschnitten, das mit der Zeit eine wunderschöne Patina entwickeln wird.",
+      "details": "Plongé-Lammleder. Riri-Reißverschlüsse und Palladium-Details. Gestepptes Satinfutter."
+    },
+    "pluie_royale_trench": {
+      "name": "'Westminster' Trenchcoat",
+      "description": "Ein zeitloser Klassiker. Unser Trenchcoat ist aus wasserdichtem Baumwoll-Gabardine gefertigt, mit allen traditionellen Details: Sturmklappen, Gürtel und Schulterklappen.",
+      "details": "Wasserabweisender Baumwoll-Gabardine. Charakteristisches Karofutter. Hornknöpfe. Klassischer Schnitt."
+    },
+    "breeze_vest": {
+      "name": "'Zephyr' Gesteppte Weste",
+      "description": "Das ideale Übergangsstück. Ultraleicht, ist diese ärmellose Weste mit hochwertigen Gänsedaunen gefüllt für gezielte Wärme ohne Volumen.",
+      "details": "Japanisches Micro-Ripstop-Gewebe. 90/10 Gänsedaunenfüllung. Lässt sich in der eigenen Tasche zusammenfalten."
+    },
+    "azur_shirt": {
+      "name": "'Riviera' Irisches Leinenhemd",
+      "description": "Sommerliche Eleganz par excellence. Gewebt aus feinstem irischen Leinen, bietet dieses Hemd eine einzigartige Kühle und Textur, die mit jeder Wäsche schöner wird.",
+      "details": "100% irisches Leinen. Lässige Passform. Perlmuttknöpfe. Für zusätzliche Weichheit gewaschen."
+    },
+    "nocturne_tuxedo": {
+      "name": "'Grand Soir' Barathea Smoking",
+      "description": "Für unvergessliche Momente. Dieser Smoking ist aus traditioneller Barathea-Wolle mit einem Seidensatin-Revers geschnitten. Die Quintessenz formeller Eleganz.",
+      "details": "Barathea-Wolle. Revers und Paspeln aus Seidensatin. Hose mit seitlichem Satinstreifen."
+    },
+    "rivage_shorts": {
+      "name": "'Capri' Leinen-Canvas-Bermudashorts",
+      "description": "Lässiger Chic für den Sommer. Diese Bundfalten-Bermudashorts sind aus einer Leinen- und Viskosemischung für einen tadellosen Fall und Knitterfestigkeit geschnitten.",
+      "details": "Leinen- und Viskosemischung. Hohe Taille mit Bundfalten. Haken- und Reißverschluss."
+    },
+    "heritage_cardigan": {
+      "name": "'Clubhouse' Merinowolle-Cardigan",
+      "description": "Ein vielseitiges Stück, zwischen formell und lässig. Dieser Schalkragen-Cardigan ist aus extrafeiner Merinowolle gestrickt, mit geflochtenen Lederknöpfen.",
+      "details": "100% extrafeine Merinowolle. Schalkragen. Aufgesetzte Taschen. Geflochtene Lederknöpfe."
+    },
+    "folio_shirt": {
+      "name": "'Wintergarten' Viskose-Hemd",
+      "description": "Ein Hauch von Kühnheit. Dieses kurzärmelige Hemd zeigt einen exklusiven Blumendruck auf einer fließenden und leichten Viskose, perfekt für sonnige Tage.",
+      "details": "100% fließende Viskose. Exklusiver Druck. Kubanischer Kragen. Gerader Schnitt."
+    },
+    "ete_palais_suit": {
+      "name": "'Sprezzatura' Leinen- und Baumwoll-Sommeranzug",
+      "description": "Sommerliche Eleganz im italienischen Stil. Die dekonstruierte Struktur und die Leinen-Baumwoll-Mischung machen diesen Anzug unglaublich leicht und atmungsaktiv, ohne auf Stil zu verzichten.",
+      "details": "Leinen- und Baumwollmischung. Ungefütterte Jacke, natürliche Schultern. Aufgesetzte Taschen."
+    },
+    "atelier_sweatshirt": {
+      "name": "'Der Künstler' Loopback-Baumwoll-Sweatshirt",
+      "description": "Komfort zur Kunstform erhoben. Hergestellt aus japanischer Loopback-Baumwolle (French Terry), hat dieses Sweatshirt eine leicht übergroße Passform und Flachnähte für absoluten Komfort.",
+      "details": "Japanische Loopback-Baumwolle (French Terry). Flachnähte. Robuste Rippbündchen."
+    },
+    "verite_bomber": {
+      "name": "'Aviator' Ziegenvelours-Bomberjacke",
+      "description": "Ein taktiler Luxus. Diese Bomberjacke ist aus samtigem Ziegenvelours gefertigt und bietet eine anspruchsvolle Alternative zu klassischem Leder. Seidenfutter.",
+      "details": "Ziegenvelours. Zwei-Wege-Riri-Reißverschluss. Rippbündchen aus Wolle und Kaschmir."
+    },
+    "elan_polo": {
+      "name": "'Der Sportler' Sea Island Baumwoll-Piqué-Polo",
+      "description": "Das perfektionierte Poloshirt. Gestrickt aus der sehr seltenen Sea Island Baumwolle, bietet dieses Polo eine unvergleichliche seidige Weichheit und Glanz. Gerippter Kragen und Knopfleiste.",
+      "details": "100% Sea Island Baumwolle. Zwei-Knopf-Leiste aus Perlmutt. Seitenschlitze."
+    },
+    "nuage_hoodie": {
+      "name": "'Kokon' Double-Face-Kaschmir-Hoodie",
+      "description": "Der Gipfel des luxuriösen Loungewear. Dieser Hoodie ist aus reinem Double-Face-Kaschmir gestrickt und bietet eine Weichheit, die innen wie außen exquisit ist.",
+      "details": "100% Double-Face-Kaschmir. Gefütterte Kapuze. Kordelzug mit Metallspitzen."
+    },
+    "business_suit": {
+      "name": "'Business' Fresco-Woll-Anzug",
+      "description": "Der ultimative Anzug für Reisende. Die offen gewebte Fresco-Wolle ist von Natur aus knitterarm und atmungsaktiv, ideal, um den ganzen Tag tadellos auszusehen.",
+      "details": "Hochgedrehte Fresco-Wolle. Halbe Leinwandkonstruktion. Teilfutter für Atmungsaktivität."
+    },
+    "expedition_parka": {
+      "name": "'Arktis' Ventile- und Daunenparka",
+      "description": "Der ultimative Schutz gegen die Elemente. Außenhülle aus Ventile®-Baumwolle, einem natürlichen wasserdichten Material, und großzügige Füllung aus 850er Gänsedaunen.",
+      "details": "Wasserdichte Ventile®-Baumwolle. 850er Gänsedaunenfüllung. Abnehmbare Kapuze mit Kojotenfellbesatz (ethisch einwandfrei)."
+    },
+    "metro_jumpsuit": {
+      "name": "'Urban' Woll-Canvas-Jumpsuit",
+      "description": "Ein modernes Stil-Statement. Dieser von Arbeitskleidung inspirierte Jumpsuit ist aus einem geschmeidigen Woll-Canvas geschnitten für einen Look, der sowohl schick als auch lässig ist.",
+      "details": "Leichter Woll-Canvas. Verdeckter Reißverschluss. Passender Gürtel. Mehrere funktionale Taschen."
+    },
+    "constellation_dress": {
+      "name": "'Sternennacht' Abendkleid",
+      "description": "Fangen Sie das Licht ein. Komplett von Hand mit Perlen und Kristallen auf Seidentüll bestickt, ist dieses Abendkleid ein wahres Kunstwerk.",
+      "details": "Handbestickter Seidentüll mit Perlen und Kristallen. Erfordert Hunderte von Arbeitsstunden. Einzelanfertigung auf Bestellung."
+    },
+    "lueur_top": {
+      "name": "'Göttlicher Drapé' Seidensatin-Top",
+      "description": "Vergrößerte Einfachheit. Ein schlichtes Top aus schwerem Seidensatin mit einem Wasserfallausschnitt, der mit unendlicher Anmut fällt.",
+      "details": "100% schwerer Seidensatin. Schrägschnitt für einen perfekten Fall. Dünne Träger."
+    },
+    "etoile_jeans": {
+      "name": "'Der Pariser' Slim Jeans",
+      "description": "Die perfekte Slim Jeans. Geschnitten aus hochwertigem italienischem Stretch-Denim, formt sie das Bein, ohne einzuengen, für eine schlanke und bequeme Silhouette.",
+      "details": "Italienischer Stretch-Denim. Mittlere Leibhöhe. Dezente handgemachte Waschung."
+    },
+    "noir_chic_jumpsuit": {
+      "name": "'St-Germain' Krepp-Jumpsuit",
+      "description": "Die moderne Alternative zum kleinen Schwarzen. Ein tadellos geschnittener Jumpsuit aus schwerem Krepp mit weiten Beinen und definierter Taille.",
+      "details": "Krepp-Satin. Weite Beine. Abnehmbarer Gürtel. Wickelausschnitt."
+    },
+    "ballet_skirt": {
+      "name": "'Oper' Sonnenplissee-Tüllrock",
+      "description": "Leichtigkeit und Bewegung. Dieser lange Rock besteht aus mehreren Lagen sonnenplissiertem Tüll, was ein luftiges und poetisches Volumen erzeugt.",
+      "details": "Feiner sonnenplissierter Tüll. Ripsband-Bund. Seidenkrepp-Futter."
+    },
+    "seraphine_sweater": {
+      "name": "'Gelassenheit' Lochstrick-Kaschmirpullover",
+      "description": "Ein exquisit feiner Strick. Dieser U-Boot-Ausschnitt-Pullover ist aus ultraleichtem Kaschmir mit zarter Lochstrickerei gefertigt, die die Haut dezent enthüllt.",
+      "details": "100% 2-fädiger Kaschmir. Lochstrick. Leicht lockere Passform."
+    },
+    "chic_urbain_jacket": {
+      "name": "'Rive Gauche' Bouclé-Tweed-Jacke",
+      "description": "Ein zeitloses Stück französischen Chics. Gewebt aus einem Woll- und Baumwoll-Bouclé, zeichnet sich diese kurze Jacke durch ihre geflochtenen Borten und Schmuckknöpfe aus.",
+      "details": "Bouclé-Tweed. Vier aufgesetzte Taschen. Handgeflochtene Borten. Seidenfutter."
+    },
+    "veloute_dress": {
+      "name": "'Kutsche' Seidensamt-Kleid",
+      "description": "Für einen spektakulären Auftritt. Dieses lange Kleid aus Devoré-Seidensamt spielt mit Transparenz für einen glamourösen und geheimnisvollen Effekt. Hoher Beinschlitz.",
+      "details": "Devoré-Seidensamt. Teilfutter. Seitenschlitz. Dünne, im Rücken gekreuzte Träger."
+    },
+    "poeme_blouse": {
+      "name": "'Impressionistische' Seidentwill-Bluse",
+      "description": "Ein Meisterwerk zum Tragen. Diese Bluse ist mit einem exklusiven Blumenmuster auf einem prächtigen Seidentwill bedruckt, mit einem Lavallière-Kragen zum Binden.",
+      "details": "100% Seidentwill. Exklusiver Druck. Lavallière-Kragen. Geknöpfte Manschetten."
+    },
+    "palace_coat": {
+      "name": "'Majestätischer' Webpelzmantel",
+      "description": "Hollywood-Glamour. Ein opulenter Mantel aus Webpelz von atemberaubender Qualität und Weichheit. Übergroßes Volumen und ein großer Schalkragen.",
+      "details": "Hochwertiger Webpelz. Übergroßer Schnitt. Unsichtbarer Hakenverschluss. Satinfutter."
+    },
+    "soutien_briefs": {
+      "name": "'Zweite Haut' Mikrofaser-Body",
+      "description": "Unsichtbare Perfektion. Dieser nahtlose Body aus ultrafeiner Mikrofaser glättet und formt die Silhouette diskret unter den engsten Kleidern.",
+      "details": "Nahtlose technische Mikrofaser. Leichter Formeffekt. Druckknopfverschluss im Schritt."
+    },
+    "maison_cardigan": {
+      "name": "'Sonntag' Englischer Rippen-Cardigan",
+      "description": "Der ideale Begleiter für Ihre entspannten Momente. Ein langer, umhüllender Cardigan, gestrickt in einer groben englischen Rippe aus einer Mischung aus Wolle und Alpaka.",
+      "details": "Woll- und Alpakamischung. Englischer Rippenstrick. Ohne Knöpfe. Aufgesetzte Taschen."
+    },
+    "matin_dress": {
+      "name": "'Wochenende' Popeline-Hemdblusenkleid",
+      "description": "Müheloser Chic. Ein perfekt geschnittenes Hemdblusenkleid aus Stretch-Baumwoll-Popeline, das gegürtet werden kann, um die Taille zu betonen, oder gerade getragen für einen lässigeren Look.",
+      "details": "Stretch-Baumwoll-Popeline. Abnehmbarer Gürtel. In den Nähten versteckte Taschen."
+    },
+    "ete_rive_shorts": {
+      "name": "'Saint-Tropez' Herzogin-Satin-Shorts",
+      "description": "Ein Couture-Look für den Sommer. Diese hoch taillierten Bundfalten-Shorts sind aus einem Herzogin-Satin geschnitten, der ihnen außergewöhnlichen Halt und Glanz verleiht.",
+      "details": "Herzogin-Satin. Hohe Taille und Bundfalten. Italienische Taschen. Aufschläge."
+    },
+    "nuit_opera_pyjamas": {
+      "name": "'Träumerei' Seiden- und Spitzen-Pyjama-Set",
+      "description": "Auch die Nacht verdient Eleganz. Ein Cami- und Shorts-Set aus Seidensatin, zart mit Calais-Spitze am Ausschnitt und Saum besetzt.",
+      "details": "Seidensatin und Calais-Spitze. Verstellbare Träger. Shorts mit elastischem Bund."
+    },
+    "pluie_de_paris_trench": {
+      "name": "'Pariser' Fließender Gabardine-Trenchcoat",
+      "description": "Eine moderne und feminine Version des Trenchcoats. Sein fließender Baumwoll-Gabardine und der geschmeidige Schnitt verleihen ihm einen weniger strengen, zeitgemäßeren Look.",
+      "details": "Baumwoll- und Tencel-Gabardine. Ungefüttert für mehr Fließfähigkeit. Sturmklappe und abnehmbarer Gürtel."
+    },
+    "executive_dress": {
+      "name": "'Working Girl' Kühles Wollkleid",
+      "description": "Die Uniform der Powerfrau. Dieses Etuikleid ist aus knitterarmer kühler Wolle geschneidert, mit einem U-Boot-Ausschnitt und 3/4-Ärmeln.",
+      "details": "Super 110s kühle Wolle. Taillierter Schnitt. Vollständig gefüttert. Schlitz hinten für Bewegungsfreiheit."
+    },
+    "sculpture_top": {
+      "name": "'Gala' Seidenfaille-Bustier",
+      "description": "Ein architektonisches Stück. Dieses Bustier ist mit inneren Stäbchen strukturiert und aus einem steifen Seidenfaille geschnitten für eine Haute-Couture-Silhouette.",
+      "details": "Seidenfaille. Innere Struktur mit Stäbchen. Reißverschluss hinten."
+    },
+    "voyage_parka": {
+      "name": "'Nebel' Technischer Nylon-Regencape",
+      "description": "Eleganz im Regen. Ein weiter und ultraleichter Cape aus japanischem technischen Nylon, der sich in eine kleine Tasche falten lässt. Perfekt für Reisen.",
+      "details": "Wasserdichtes japanisches technisches Nylon. Verschweißte Nähte. Kapuze und weiter Schnitt."
+    },
+    "aube_dress": {
+      "name": "'Morgenröte' Asymmetrisches Kleid",
+      "description": "Eine Skulptur aus Stoff. Dieses Cocktailkleid aus Krepp spielt mit Drapierungen und einem asymmetrischen One-Shoulder-Schnitt für einen spektakulären und modernen Effekt.",
+      "details": "Krepp-Satin. Asymmetrischer Schnitt. Handdrapiert."
+    },
+    "lumi_clutch": {
+      "name": "'Juwel' Strassbesetzte Minaudière",
+      "description": "Mehr als eine Tasche, ein Juwel. Diese starre Minaudière ist vollständig mit Swarovski-Kristallen besetzt und fängt das Licht bei jeder Bewegung ein.",
+      "details": "Messingstruktur. Swarovski-Kristalle. Juwelenschließe. Abnehmbare Kette."
+    },
+    "carte_prime_holder": {
+      "name": "'Der Minimalist' Epsom-Leder-Kartenetui",
+      "description": "Das Wesentliche, mit Eleganz. Hergestellt aus Epsom-Kalbsleder, bekannt für seine Widerstandsfähigkeit, passt dieses schlanke Kartenetui in jede Tasche.",
+      "details": "Epsom-Kalbsleder. Drei Kartenfächer. Mittleres Fach. Handbemalte Kanten."
+    },
+    "finesse_belt": {
+      "name": "'Der Reiz' Eidechsenleder-Gürtel",
+      "description": "Das Detail, das alles verändert. Ein dünner Gürtel aus echtem Eidechsenleder mit einer dezenten Schnalle aus palladiumbeschichtetem Messing. Ein subtiler Luxus.",
+      "details": "Echtes Eidechsenleder. Kalbslederfutter. Schnalle aus Messing mit Palladium-Finish."
+    },
+    "minit_bag": {
+      "name": "'Der Charmeur' Ziegenvelours-Mikrotasche",
+      "description": "Die kleine Tasche, die alles hat. Groß genug für das Wesentliche (Telefon, Karten, Lippenstift), ist diese samtige Ziegenledertasche das perfekte Abendaccessoire.",
+      "details": "Samtiges Ziegenleder. Ketten- und Lederriemen. Magnetverschluss."
+    },
+    "horizon_sunglasses": {
+      "name": "'Aviator' Titan- und Gold-Sonnenbrille",
+      "description": "Eine Ikone neu interpretiert. Ultraleichter Rahmen aus japanischem Titan mit 18-karätig vergoldeten Details. Polarisierte Gläser für perfekte Sicht.",
+      "details": "Titanrahmen. 18-karätige Vergoldung. Polarisierte Gläser mit Antireflexbeschichtung."
+    },
+    "nuit_scarf": {
+      "name": "'Süße Nacht' Kaschmir- und Seidenstola",
+      "description": "Ein Schal von unglaublicher Leichtigkeit und Weichheit. Die Mischung aus Kaschmir und Seide verleiht ihm einen fließenden Fall und zarte Wärme.",
+      "details": "70% Kaschmir, 30% Seide. Sehr feines Gewebe. Zarte Fransenkanten. Maße: 70x200cm."
+    },
+    "organize_pouch": {
+      "name": "'Der Nomade' Tech-Tasche aus Leder",
+      "description": "Organisieren Sie Ihre Tech-Essentials mit Stil. Diese weiche Ledertasche ist für Ihre Kabel, Ladegeräte und andere kleine Accessoires konzipiert.",
+      "details": "Weiches Kalbsleder. Elastische Fächer. Mikrofaserfutter."
+    },
+    "reflet_jewelry_set": {
+      "name": "'Tautropfen' Topas-Schmuckset",
+      "description": "Ein Halsketten- und Ohrringset von absoluter Finesse, das birnenförmig geschliffene blaue Topase auf einer Weißgoldfassung hervorhebt.",
+      "details": "18-karätiges Weißgold. 'Swiss Blue' blaue Topase. Forçat-Kette."
+    },
+    "anchor_bracelet": {
+      "name": "'Der Anker' Geflochtenes Lederarmband",
+      "description": "Ein lässiges Herrenschmuckstück. Dieses Armband besteht aus geflochtenem Kalbsleder und einem Verschluss in Form eines Marineankers aus gebürstetem Edelstahl.",
+      "details": "Geflochtenes Kalbsleder. Ankerverschluss aus 316L-Stahl. Handgefertigt in Italien."
+    },
+    "etoile_earrings": {
+      "name": "'Solitär-Diamant' Ohrstecker",
+      "description": "Reiner Glanz. Jeder Ohrring ist mit einem 0,25-Karat-Diamanten besetzt, montiert auf Weißgold für maximale Brillanz. Ein zeitloser Klassiker.",
+      "details": "18-karätiges Weißgold. Zwei 0,25-Karat-Diamanten, Qualität G/VS. Sicheres Verschlusssystem."
+    },
+    "ocean_necklace": {
+      "name": "'Schwarze Perle' Tahiti-Halskette",
+      "description": "Die rohe, natürliche Schönheit einer Tahiti-Schwarzperle, einfach an einer dünnen Roségoldkette aufgehängt. Jede Perle ist ein Unikat.",
+      "details": "18-karätiges Roségold. Tahiti-Schwarzperle, AAA-Qualität, 9-10mm Durchmesser."
+    },
+    "sync_watch": {
+      "name": "'Verbundener Horizont' Automatikuhr",
+      "description": "Das Beste aus beiden Welten. Eine Schweizer Automatikuhr, untergebracht in einem Titangehäuse mit einem diskreten, integrierten Benachrichtigungsmodul.",
+      "details": "Schweizer Automatikwerk. Gehäuse aus Titan Grad 5. Saphirglas. Auswechselbares Armband."
+    },
+    "pluie_chic_umbrella": {
+      "name": "'Der Gentleman' Ahornholz-Regenschirm",
+      "description": "Stellen Sie sich dem Regen mit Elan. Ein einziger Schaft aus Ahornholz, eine breite wasserabweisende Bespannung und eine traditionelle manuelle Öffnung für diesen außergewöhnlichen Regenschirm.",
+      "details": "Schaft und Griff aus massivem Ahornholz. Bespannung aus hochdichtem Polyester. Hergestellt in Frankreich."
+    },
+    "travel_safe_wallet": {
+      "name": "'Der Globetrotter' Reisebrieftasche",
+      "description": "Organisieren Sie Ihre Reise. Konzipiert für einen Reisepass, Bordkarten, Währungen und Kreditkarten in einem eleganten Lederformat.",
+      "details": "Vollnarbiges Kalbsleder. RFID-Schutz. Mehrere Fächer."
+    },
+    "riviera_hat": {
+      "name": "'Côte d'Azur' Panama-Strohhut",
+      "description": "Das quintessentielle Sommeraccessoire. Handgeflochten in Ecuador, schützt dieser Panama-Strohhut mit unvergleichlicher Eleganz vor der Sonne. Ripsband.",
+      "details": "Authentisches Toquilla-Stroh (Panama). Feines Geflecht. Austauschbares Ripsband."
+    },
+    "smart_gloves": {
+      "name": "'Taktile' Peccary-Kaschmir-gefütterte Handschuhe",
+      "description": "Luxus an Ihren Fingerspitzen. Hergestellt aus dem sehr seltenen Pekari-Leder und mit Kaschmir gefüttert, sind diese Handschuhe mit Touchscreens kompatibel.",
+      "details": "Pekari-Leder. 100% Kaschmirfutter. Touchscreen-kompatible Technologie."
+    },
+    "ceremony_bowtie": {
+      "name": "'Schwarze Krawatte' Seidenfaille-Fliege",
+      "description": "Das unverzichtbare Accessoire für Abendgarderobe. Diese selbst zu bindende Fliege ist aus einem kostbaren schwarzen Seidenfaille geschnitten.",
+      "details": "100% Seidenfaille. Selbstbinder. Verstellbare Größe."
+    },
+    "coin_purse": {
+      "name": "'Der Sammler' Münzgeldbörse mit Verschluss",
+      "description": "Ein Retro-Charme. Diese weiche Kalbsleder-Münzgeldbörse schließt mit einem klassischen Metallverschluss. Ideal für Ihr Kleingeld oder Ihre kleinen Geheimnisse.",
+      "details": "Weiches Kalbsleder. Verschluss aus gealtertem Messing. Lammlederfutter."
+    },
+    "flora_brooch": {
+      "name": "'Fleur de Lys' Emaille-Brosche",
+      "description": "Ein Hauch von Poesie. Diese Brosche, die eine stilisierte Fleur-de-Lys darstellt, ist in der Plique-à-jour-Emaille-Technik gefertigt, die an Glasmalerei erinnert.",
+      "details": "Vergoldetes 925er Silber. Plique-à-jour-Emaille. Handgefertigt."
+    },
+    "luxband_headband": {
+      "name": "'Muse' Seidentwill-Stirnband",
+      "description": "Ein vielseitiges Accessoire. Im Haar, um den Hals oder an Ihre Tasche gebunden, ist dieses Seidentwill-Stirnband mit einem exklusiven Muster bedruckt.",
+      "details": "100% Seidentwill. Beidseitig bedruckt. Maße: 6 x 105 cm."
+    },
+    "lecteur_glasses": {
+      "name": "'Der Intellektuelle' Lesebrille",
+      "description": "Lesen mit Stil. Rahmen aus italienischem Zelluloseacetat, mit hochwertigen Gläsern, die mit Antireflex- und Blaulichtfilter-Beschichtungen behandelt sind.",
+      "details": "Mazzucchelli-Zelluloseacetat. Antireflex- und Blaulichtfilter-behandelte Gläser. Genietete Scharniere."
+    },
+    "charme_bag_charm": {
+      "name": "'Das Grimoire' Taschenanhänger",
+      "description": "Personalisieren Sie Ihre Tasche. Dieser Taschenanhänger stellt ein winziges Lederbuch mit Messingseiten dar, das an einem Karabinerhaken mit Logo hängt.",
+      "details": "Leder und Messing. Gravierter Stahlkarabinerhaken."
+    },
+    "portfolio_laptop_case": {
+      "name": "'Der Minister' Leder-Dokumentenmappe",
+      "description": "Tragen Sie Ihren Computer und Ihre Dokumente mit Eleganz. Diese schlanke Dokumentenmappe aus Kalbsleder ist leicht gepolstert für optimalen Schutz.",
+      "details": "Kalbsleder. Gepolstertes Hauptfach für einen 13-Zoll-Computer. Außentasche."
+    },
+    "keygold_keychain": {
+      "name": "'Der Wächter' Leder- und Messing-Schlüsselanhänger",
+      "description": "Ein Alltagsgegenstand, der in ein Schmuckstück verwandelt wurde. Ein Riemen aus genarbtem Kalbsleder kombiniert mit massiven gebürsteten Messingteilen.",
+      "details": "Kalbsleder und massives Messing. Spaltring und Karabinerhaken."
+    },
+    "serenite_sandals": {
+      "name": "'Der Spaziergang' Flache Ledersandalen",
+      "description": "Minimalistische Eleganz für den Sommer. Diese flachen Sandalen mit dünnen Kalbslederriemen sind das Symbol für lässigen und zeitlosen Chic.",
+      "details": "Kalbsleder. Gepolsterte Innensohle. Hergestellt in Italien."
+    },
+    "paris_boots": {
+      "name": "'Rive Gauche' Wildleder-Stiefeletten",
+      "description": "Die perfekte Stiefelette für jeden Tag. Ein bequemer 6 cm Blockabsatz, eine elegante Mandelform und geschmeidiges Ziegenveloursleder. Pariser Chic.",
+      "details": "Ziegenveloursleder. 6 cm Blockabsatz. Seitlicher Reißverschluss."
+    },
+    "diva_mules": {
+      "name": "'Palazzo' Satin- und Kristall-Mules",
+      "description": "Für Abende, an denen alles erlaubt ist. Diese spitz zulaufenden Satin-Mules sind mit einer spektakulären quadratischen Kristallschnalle verziert.",
+      "details": "Herzogin-Satin. Swarovski-Kristallschnalle. Kleiner 2 cm Absatz."
+    },
+    "street_luxe_derby": {
+      "name": "'Avantgarde' Plateau-Derbys",
+      "description": "Ein Klassiker auf den Kopf gestellt. Der traditionelle Derby ist auf einer geriffelten Plateausohle aus ultraleichtem Mikrogummi montiert, für einen kühnen Look.",
+      "details": "Poliertes Kalbsleder. Mikrogummi-Plateausohle. Lederfutter."
+    },
+    "elite_derby": {
+      "name": "'Der Konsul' Schnallen-Derby",
+      "description": "Eine originelle Alternative zum Schnür-Derby. Dieses Einzelschnallen-Modell (Monk Strap) aus genarbtem Kalbsleder ist sowohl formell als auch charaktervoll.",
+      "details": "Genarbtes Kalbsleder. Goodyear-genäht. Messingschnalle."
+    },
+    "club_loafer": {
+      "name": "'Der Yachtsman' Wildleder-Loafer",
+      "description": "Der ideale Begleiter für sonnige Wochenenden. Dieser geschmeidige Wildleder-Loafer ist auf einer mit Gumminoppen besetzten Sohle für unvergleichliche Flexibilität und Komfort montiert.",
+      "details": "Wasserabweisendes Kalbsveloursleder. Gumminoppensohle. Tubuläre Konstruktion."
+    },
+    "tradition_brogues": {
+      "name": "'Heritage' Full-Brogue-Oxford",
+      "description": "Eine Säule britischer Eleganz. Dieser Oxford zeichnet sich durch seine dekorativen Lochungen ('Broguing') auf dem gesamten Schuh aus. Ein selbstbewusster Charakter.",
+      "details": "Boxkalbsleder. Full-Brogue-Lochungen. Goodyear-genäht auf einer Ledersohle."
+    },
+    "citadin_boots": {
+      "name": "'Der Städter' Chelsea-Stiefel",
+      "description": "Vielseitigkeit und Stil. Eine klare Form, glattes Kalbsleder und robuste Gummibänder machen diesen Chelsea-Stiefel zu einem unverzichtbaren Bestandteil der Herrengarderobe.",
+      "details": "Glattes Kalbsleder. Blake-genäht. Seitliche Gummibänder."
+    },
+    "runway_sneakers": {
+      "name": "'Der Minimalist' Leder-Sneakers",
+      "description": "Der saubere Luxus-Sneaker. Hergestellt in Italien aus glattem Kalbsleder, passt seine minimalistische Silhouette zu jedem Outfit, vom Anzug bis zur Jeans.",
+      "details": "Italienisches Kalbsleder. Vollständiges Lederfutter. Genähte Gummisohle."
+    }
+  }
+}
+
+    

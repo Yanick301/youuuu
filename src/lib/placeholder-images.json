@@ -1,0 +1,1836 @@
+{
+  "placeholderImages": [
+    {
+      "id": "m-1",
+      "name": "products.monarque_blazer.name",
+      "slug": "veste-croisee-laine-vierge-monarque",
+      "description": "products.monarque_blazer.description",
+      "price": 1250,
+      "imageUrl": "/product-images/clothing/veste-croisee-laine-vierge-monarque.jpg",
+      "imageHint": "men wool blazer",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.monarque_blazer.details",
+      "options": {
+        "sizes": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ],
+        "colors": [
+          "#2F3A4C",
+          "#5A4D41",
+          "#1E1E1E"
+        ]
+      }
+    },
+    {
+      "id": "m-2",
+      "name": "products.aquila_suit.name",
+      "slug": "costume-3-pieces-cachemire-aquila",
+      "description": "products.aquila_suit.description",
+      "price": 2900,
+      "imageUrl": "/product-images/clothing/costume-3-pieces-cachemire-aquila.jpg",
+      "imageHint": "men cashmere suit",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.aquila_suit.details",
+      "options": {
+        "sizes": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ]
+      }
+    },
+    {
+      "id": "m-3",
+      "name": "products.pur_shirt.name",
+      "slug": "chemise-oxford-coton-egyptien-pur",
+      "description": "products.pur_shirt.description",
+      "price": 220,
+      "imageUrl": "/product-images/clothing/chemise-oxford-coton-egyptien-pur.jpg",
+      "imageHint": "men oxford shirt",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.pur_shirt.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "#FFFFFF",
+          "#D6EAF8",
+          "#FADADD"
+        ]
+      }
+    },
+    {
+      "id": "m-4",
+      "name": "products.nord_coat.name",
+      "slug": "manteau-long-cachemire-melange-nord",
+      "description": "products.nord_coat.description",
+      "price": 1800,
+      "imageUrl": "/product-images/clothing/manteau-long-cachemire-melange-nord.jpg",
+      "imageHint": "men cashmere coat",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.nord_coat.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "#343A40",
+          "#A1887F",
+          "#6C757D"
+        ]
+      }
+    },
+    {
+      "id": "m-5",
+      "name": "products.soir_blazer.name",
+      "slug": "blazer-velours-cotele-soir",
+      "description": "products.soir_blazer.description",
+      "price": 650,
+      "imageUrl": "/product-images/clothing/blazer-velours-cotele-soir.jpg",
+      "imageHint": "men corduroy blazer",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.soir_blazer.details",
+      "options": {
+        "sizes": [
+          "46",
+          "48",
+          "50",
+          "52"
+        ]
+      }
+    },
+    {
+      "id": "m-6",
+      "name": "products.silence_turtleneck.name",
+      "slug": "pull-col-roule-merinos-silence",
+      "description": "products.silence_turtleneck.description",
+      "price": 240,
+      "imageUrl": "/product-images/clothing/pull-col-roule-merinos-silence.jpg",
+      "imageHint": "men merino turtleneck",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.silence_turtleneck.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-7",
+      "name": "products.cache_chino.name",
+      "slug": "pantalon-chino-tailoring-cache",
+      "description": "products.cache_chino.description",
+      "price": 180,
+      "imageUrl": "/product-images/clothing/pantalon-chino-tailoring-cache.jpg",
+      "imageHint": "men tailored chino",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.cache_chino.details",
+      "options": {
+        "sizes": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ]
+      }
+    },
+    {
+      "id": "m-8",
+      "name": "products.forge_jeans.name",
+      "slug": "jeans-brut-selvedge-forge",
+      "description": "products.forge_jeans.description",
+      "price": 260,
+      "imageUrl": "/product-images/clothing/jeans-brut-selvedge-forge.jpg",
+      "imageHint": "men selvedge denim",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.forge_jeans.details",
+      "options": {
+        "sizes": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ]
+      }
+    },
+    {
+      "id": "m-9",
+      "name": "products.atlas_parka.name",
+      "slug": "parka-technique-impermeable-atlas",
+      "description": "products.atlas_parka.description",
+      "price": 520,
+      "imageUrl": "/product-images/clothing/parka-technique-impermeable-atlas.jpg",
+      "imageHint": "men technical parka",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.atlas_parka.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-10",
+      "name": "products.cuiron_jacket.name",
+      "slug": "veste-en-cuir-agneau-cuiron",
+      "description": "products.cuiron_jacket.description",
+      "price": 1350,
+      "imageUrl": "/product-images/clothing/veste-en-cuir-agneau-cuiron.jpg",
+      "imageHint": "men lamb leather jacket",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.cuiron_jacket.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-11",
+      "name": "products.pluie_royale_trench.name",
+      "slug": "trench-coat-coton-cire-pluie-royale",
+      "description": "products.pluie_royale_trench.description",
+      "price": 980,
+      "imageUrl": "/product-images/clothing/trench-coat-coton-cire-pluie-royale.jpg",
+      "imageHint": "men waxed trench",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.pluie_royale_trench.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-12",
+      "name": "products.breeze_vest.name",
+      "slug": "gilet-matelasse-leger-breeze",
+      "description": "products.breeze_vest.description",
+      "price": 320,
+      "imageUrl": "/product-images/clothing/gilet-matelasse-leger-breeze.jpg",
+      "imageHint": "men quilted vest",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.breeze_vest.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-13",
+      "name": "products.azur_shirt.name",
+      "slug": "chemise-en-lin-lave-azur",
+      "description": "products.azur_shirt.description",
+      "price": 160,
+      "imageUrl": "/product-images/clothing/chemise-en-lin-lave-azur.jpg",
+      "imageHint": "men linen shirt",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.azur_shirt.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-14",
+      "name": "products.nocturne_tuxedo.name",
+      "slug": "costume-smoking-satin-nocturne",
+      "description": "products.nocturne_tuxedo.description",
+      "price": 3400,
+      "imageUrl": "/product-images/clothing/costume-smoking-satin-nocturne.jpg",
+      "imageHint": "men satin tuxedo",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.nocturne_tuxedo.details",
+      "options": {
+        "sizes": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ]
+      }
+    },
+    {
+      "id": "m-15",
+      "name": "products.rivage_shorts.name",
+      "slug": "short-tailoring-laine-legere-rivage",
+      "description": "products.rivage_shorts.description",
+      "price": 210,
+      "imageUrl": "/product-images/clothing/short-tailoring-laine-legere-rivage.jpg",
+      "imageHint": "men tailored shorts",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.rivage_shorts.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-16",
+      "name": "products.heritage_cardigan.name",
+      "slug": "cardigan-boutonne-cachemire-heritage",
+      "description": "products.heritage_cardigan.description",
+      "price": 330,
+      "imageUrl": "/product-images/clothing/cardigan-boutonne-cachemire-heritage.jpg",
+      "imageHint": "men cashmere cardigan",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.heritage_cardigan.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-17",
+      "name": "products.folio_shirt.name",
+      "slug": "chemise-motif-imprime-luxe-folio",
+      "description": "products.folio_shirt.description",
+      "price": 190,
+      "imageUrl": "/product-images/clothing/chemise-motif-imprime-luxe-folio.jpg",
+      "imageHint": "men printed shirt",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.folio_shirt.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-18",
+      "name": "products.ete_palais_suit.name",
+      "slug": "costume-lin-soie-ete-palais",
+      "description": "products.ete_palais_suit.description",
+      "price": 1450,
+      "imageUrl": "/product-images/clothing/costume-lin-soie-ete-palais.jpg",
+      "imageHint": "men linen silk suit",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.ete_palais_suit.details",
+      "options": {
+        "sizes": [
+          "46",
+          "48",
+          "50",
+          "52"
+        ]
+      }
+    },
+    {
+      "id": "m-19",
+      "name": "products.atelier_sweatshirt.name",
+      "slug": "sweat-shirt-premium-atelier",
+      "description": "products.atelier_sweatshirt.description",
+      "price": 150,
+      "imageUrl": "/product-images/clothing/sweat-shirt-premium-atelier.jpg",
+      "imageHint": "men premium sweatshirt",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.atelier_sweatshirt.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-20",
+      "name": "products.verite_bomber.name",
+      "slug": "bomber-en-satin-verite",
+      "description": "products.verite_bomber.description",
+      "price": 420,
+      "imageUrl": "/product-images/clothing/bomber-en-satin-verite.jpg",
+      "imageHint": "men satin bomber",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.verite_bomber.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-21",
+      "name": "products.elan_polo.name",
+      "slug": "polo-en-pique-de-coton-supima-elan",
+      "description": "products.elan_polo.description",
+      "price": 125,
+      "imageUrl": "/product-images/clothing/polo-en-pique-de-coton-supima-elan.jpg",
+      "imageHint": "men supima polo",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.elan_polo.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-22",
+      "name": "products.nuage_hoodie.name",
+      "slug": "hoodie-en-cachemire-coton-nuage",
+      "description": "products.nuage_hoodie.description",
+      "price": 480,
+      "imageUrl": "/product-images/clothing/hoodie-en-cachemire-coton-nuage.jpg",
+      "imageHint": "men cashmere hoodie",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.nuage_hoodie.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-23",
+      "name": "products.business_suit.name",
+      "slug": "costume-en-laine-tropicale-business",
+      "description": "products.business_suit.description",
+      "price": 1100,
+      "imageUrl": "/product-images/clothing/costume-en-laine-tropicale-business.jpg",
+      "imageHint": "men tropical wool suit",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.business_suit.details",
+      "options": {
+        "sizes": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ]
+      }
+    },
+    {
+      "id": "m-24",
+      "name": "products.expedition_parka.name",
+      "slug": "parka-fourree-en-duvet-technique-expedition",
+      "description": "products.expedition_parka.description",
+      "price": 760,
+      "imageUrl": "/product-images/clothing/parka-fourree-en-duvet-technique-expedition.jpg",
+      "imageHint": "men expedition parka",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.expedition_parka.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "m-25",
+      "name": "products.metro_jumpsuit.name",
+      "slug": "combinaison-tailleur-casual-metro",
+      "description": "products.metro_jumpsuit.description",
+      "price": 390,
+      "imageUrl": "/product-images/clothing/combinaison-tailleur-casual-metro.jpg",
+      "imageHint": "men casual jumpsuit",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.metro_jumpsuit.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "f-1",
+      "name": "products.elegance_dress.name",
+      "slug": "robe-longue-soie-elegance",
+      "description": "products.elegance_dress.description",
+      "price": 1100,
+      "imageUrl": "/product-images/clothing/robe-longue-soie-elegance.jpg",
+      "imageHint": "women silk dress",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.elegance_dress.details",
+      "options": {
+        "sizes": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "colors": [
+          "#FFC0CB",
+          "#ADD8E6",
+          "#E6E6FA"
+        ]
+      }
+    },
+    {
+      "id": "f-2",
+      "name": "products.madame_suit.name",
+      "slug": "tailleur-jupe-en-laine-madame",
+      "description": "products.madame_suit.description",
+      "price": 1400,
+      "imageUrl": "/product-images/clothing/tailleur-jupe-en-laine-madame.jpg",
+      "imageHint": "women wool suit",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.madame_suit.details",
+      "options": {
+        "sizes": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      }
+    },
+    {
+      "id": "f-3",
+      "name": "products.rosee_blouse.name",
+      "slug": "blouse-en-dentelle-francaise-rosee",
+      "description": "products.rosee_blouse.description",
+      "price": 280,
+      "imageUrl": "/product-images/clothing/blouse-en-dentelle-francaise-rosee.jpg",
+      "imageHint": "women lace blouse",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.rosee_blouse.details",
+      "options": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "f-4",
+      "name": "products.velours_coat.name",
+      "slug": "manteau-en-cachemire-double-face-velours",
+      "description": "products.velours_coat.description",
+      "price": 2200,
+      "imageUrl": "/product-images/clothing/manteau-en-cachemire-double-face-velours.jpg",
+      "imageHint": "women cashmere coat",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.velours_coat.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "colors": [
+          "#F5F5DC",
+          "#D2B48C",
+          "#C0C0C0"
+        ]
+      }
+    },
+    {
+      "id": "f-5",
+      "name": "products.constellation_dress.name",
+      "slug": "robe-de-soiree-brodee-constellation",
+      "description": "products.constellation_dress.description",
+      "price": 3600,
+      "imageUrl": "/product-images/clothing/robe-de-soiree-brodee-constellation.jpg",
+      "imageHint": "women embroidered dress",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.constellation_dress.details",
+      "options": {
+        "sizes": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      }
+    },
+    {
+      "id": "f-6",
+      "name": "products.lueur_top.name",
+      "slug": "top-en-satin-drape-lueur",
+      "description": "products.lueur_top.description",
+      "price": 160,
+      "imageUrl": "/product-images/clothing/top-en-satin-drape-lueur.jpg",
+      "imageHint": "women satin top",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.lueur_top.details",
+      "options": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "f-7",
+      "name": "products.etoile_jeans.name",
+      "slug": "jeans-skinny-premium-etoile",
+      "description": "products.etoile_jeans.description",
+      "price": 220,
+      "imageUrl": "/product-images/clothing/jeans-skinny-premium-etoile.jpg",
+      "imageHint": "women skinny jeans",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.etoile_jeans.details",
+      "options": {
+        "sizes": [
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30"
+        ]
+      }
+    },
+    {
+      "id": "f-8",
+      "name": "products.sculpt_dress.name",
+      "slug": "robe-midi-en-crepe-sculpt",
+      "description": "products.sculpt_dress.description",
+      "price": 420,
+      "imageUrl": "/product-images/clothing/robe-midi-en-crepe-sculpt.jpg",
+      "imageHint": "women midi dress",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.sculpt_dress.details",
+      "options": {
+        "sizes": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "colors": [
+          "#000000",
+          "#B22222",
+          "#4682B4"
+        ]
+      }
+    },
+    {
+      "id": "f-9",
+      "name": "products.noir_chic_jumpsuit.name",
+      "slug": "combinaison-pantalon-soie-noir-chic",
+      "description": "products.noir_chic_jumpsuit.description",
+      "price": 650,
+      "imageUrl": "/product-images/clothing/combinaison-pantalon-soie-noir-chic.jpg",
+      "imageHint": "women silk jumpsuit",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.noir_chic_jumpsuit.details",
+      "options": {
+        "sizes": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      }
+    },
+    {
+      "id": "f-10",
+      "name": "products.ballet_skirt.name",
+      "slug": "jupe-plissee-luxe-ballet",
+      "description": "products.ballet_skirt.description",
+      "price": 340,
+      "imageUrl": "/product-images/clothing/jupe-plissee-luxe-ballet.jpg",
+      "imageHint": "women pleated skirt",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.ballet_skirt.details",
+      "options": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "f-11",
+      "name": "products.seraphine_sweater.name",
+      "slug": "pull-cashmere-col-bateau-seraphine",
+      "description": "products.seraphine_sweater.description",
+      "price": 320,
+      "imageUrl": "/product-images/clothing/pull-cashmere-col-bateau-seraphine.jpg",
+      "imageHint": "women cashmere sweater",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.seraphine_sweater.details",
+      "options": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "f-12",
+      "name": "products.chic_urbain_jacket.name",
+      "slug": "veste-tailleur-en-tweed-chic-urbain",
+      "description": "products.chic_urbain_jacket.description",
+      "price": 780,
+      "imageUrl": "/product-images/clothing/veste-tailleur-en-tweed-chic-urbain.jpg",
+      "imageHint": "women tweed jacket",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.chic_urbain_jacket.details",
+      "options": {
+        "sizes": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      }
+    },
+    {
+      "id": "f-13",
+      "name": "products.veloute_dress.name",
+      "slug": "robe-cocktail-satinee-veloute",
+      "description": "products.veloute_dress.description",
+      "price": 520,
+      "imageUrl": "/product-images/clothing/robe-cocktail-satinee-veloute.jpg",
+      "imageHint": "women satin cocktail dress",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.veloute_dress.details",
+      "options": {
+        "sizes": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      }
+    },
+    {
+      "id": "f-14",
+      "name": "products.poeme_blouse.name",
+      "slug": "chemisier-en-soie-imprimee-poeme",
+      "description": "products.poeme_blouse.description",
+      "price": 240,
+      "imageUrl": "/product-images/clothing/chemisier-en-soie-imprimee-poeme.jpg",
+      "imageHint": "women printed silk blouse",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.poeme_blouse.details",
+      "options": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "f-15",
+      "name": "products.palace_coat.name",
+      "slug": "manteau-en-fourrure-synthetique-palace",
+      "description": "products.palace_coat.description",
+      "price": 1100,
+      "imageUrl": "/product-images/clothing/manteau-en-fourrure-synthetique-palace.jpg",
+      "imageHint": "women faux fur coat",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.palace_coat.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "f-16",
+      "name": "products.soutien_briefs.name",
+      "slug": "culotte-taille-haute-sculptante-soutien",
+      "description": "products.soutien_briefs.description",
+      "price": 65,
+      "imageUrl": "/product-images/clothing/culotte-taille-haute-sculptante-soutien.jpg",
+      "imageHint": "women high-waist briefs",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.soutien_briefs.details",
+      "options": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "f-17",
+      "name": "products.maison_cardigan.name",
+      "slug": "gilet-long-tricot-maison",
+      "description": "products.maison_cardigan.description",
+      "price": 210,
+      "imageUrl": "/product-images/clothing/gilet-long-tricot-maison.jpg",
+      "imageHint": "women long cardigan",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.maison_cardigan.details",
+      "options": {
+        "sizes": [
+          "One Size"
+        ]
+      }
+    },
+    {
+      "id": "f-18",
+      "name": "products.matin_dress.name",
+      "slug": "robe-chemise-en-popeline-matin",
+      "description": "products.matin_dress.description",
+      "price": 190,
+      "imageUrl": "/product-images/clothing/robe-chemise-en-popeline-matin.jpg",
+      "imageHint": "women poplin shirt dress",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.matin_dress.details",
+      "options": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "f-19",
+      "name": "products.ete_rive_shorts.name",
+      "slug": "short-tailleur-satine-ete-rive",
+      "description": "products.ete_rive_shorts.description",
+      "price": 170,
+      "imageUrl": "/product-images/clothing/short-tailleur-satine-ete-rive.jpg",
+      "imageHint": "women satin shorts",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.ete_rive_shorts.details",
+      "options": {
+        "sizes": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "f-20",
+      "name": "products.nuit_opera_pyjamas.name",
+      "slug": "ensemble-pyjama-soie-dentelle-nuit-opera",
+      "description": "products.nuit_opera_pyjamas.description",
+      "price": 310,
+      "imageUrl": "/product-images/clothing/ensemble-pyjama-soie-dentelle-nuit-opera.jpg",
+      "imageHint": "women silk pyjamas",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.nuit_opera_pyjamas.details",
+      "options": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "f-21",
+      "name": "products.pluie_de_paris_trench.name",
+      "slug": "trench-fin-double-pluie-de-paris",
+      "description": "products.pluie_de_paris_trench.description",
+      "price": 890,
+      "imageUrl": "/product-images/clothing/trench-fin-double-pluie-de-paris.jpg",
+      "imageHint": "women trench coat",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.pluie_de_paris_trench.details",
+      "options": {
+        "sizes": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      }
+    },
+    {
+      "id": "f-22",
+      "name": "products.executive_dress.name",
+      "slug": "robe-fourreau-en-laine-executive",
+      "description": "products.executive_dress.description",
+      "price": 420,
+      "imageUrl": "/product-images/clothing/robe-fourreau-en-laine-executive.jpg",
+      "imageHint": "women wool sheath dress",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.executive_dress.details",
+      "options": {
+        "sizes": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      }
+    },
+    {
+      "id": "f-23",
+      "name": "products.sculpture_top.name",
+      "slug": "top-bustier-structure-sculpture",
+      "description": "products.sculpture_top.description",
+      "price": 150,
+      "imageUrl": "/product-images/clothing/top-bustier-structure-sculpture.jpg",
+      "imageHint": "women bustier top",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.sculpture_top.details",
+      "options": {
+        "sizes": [
+          "XS",
+          "S",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "f-24",
+      "name": "products.voyage_parka.name",
+      "slug": "parka-legere-impermeable-voyage",
+      "description": "products.voyage_parka.description",
+      "price": 420,
+      "imageUrl": "/product-images/clothing/parka-legere-impermeable-voyage.jpg",
+      "imageHint": "women lightweight parka",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.voyage_parka.details",
+      "options": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    },
+    {
+      "id": "f-25",
+      "name": "products.aube_dress.name",
+      "slug": "robe-cocktail-asymetrique-aube",
+      "description": "products.aube_dress.description",
+      "price": 760,
+      "imageUrl": "/product-images/clothing/robe-cocktail-asymetrique-aube.jpg",
+      "imageHint": "women asymmetric dress",
+      "width": 800,
+      "height": 1200,
+      "category": "clothing",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.aube_dress.details",
+      "options": {
+        "sizes": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "a-1",
+      "name": "products.ezential_bag.name",
+      "slug": "sac-porte-epaule-cuir-graine-ezential",
+      "description": "products.ezential_bag.description",
+      "price": 1450,
+      "imageUrl": "/product-images/accessories/sac-porte-epaule-cuir-graine-ezential.jpg",
+      "imageHint": "leather shoulder bag",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": true,
+      "details": "products.ezential_bag.details",
+      "options": {
+        "colors": [
+          "#000000",
+          "#8B4513",
+          "#F5F5DC"
+        ]
+      }
+    },
+    {
+      "id": "a-2",
+      "name": "products.lumi_clutch.name",
+      "slug": "clutch-soiree-satin-perles-lumi",
+      "description": "products.lumi_clutch.description",
+      "price": 420,
+      "imageUrl": "/product-images/accessories/clutch-soiree-satin-perles-lumi.jpg",
+      "imageHint": "evening clutch",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.lumi_clutch.details"
+    },
+    {
+      "id": "a-3",
+      "name": "products.carte_prime_holder.name",
+      "slug": "porte-carte-cuir-noble-carte-prime",
+      "description": "products.carte_prime_holder.description",
+      "price": 95,
+      "imageUrl": "/product-images/accessories/porte-carte-cuir-noble-carte-prime.jpg",
+      "imageHint": "leather card holder",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": true,
+      "details": "products.carte_prime_holder.details"
+    },
+    {
+      "id": "a-4",
+      "name": "products.finesse_belt.name",
+      "slug": "ceinture-cuir-exotique-finesse",
+      "description": "products.finesse_belt.description",
+      "price": 420,
+      "imageUrl": "/product-images/accessories/ceinture-cuir-exotique-finesse.jpg",
+      "imageHint": "exotic leather belt",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.finesse_belt.details"
+    },
+    {
+      "id": "a-5",
+      "name": "products.minit_bag.name",
+      "slug": "sac-bandouliere-mini-peau-de-peche-minit",
+      "description": "products.minit_bag.description",
+      "price": 720,
+      "imageUrl": "/product-images/accessories/sac-bandouliere-mini-peau-de-peche-minit.jpg",
+      "imageHint": "mini crossbody bag",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.minit_bag.details"
+    },
+    {
+      "id": "a-6",
+      "name": "products.horizon_sunglasses.name",
+      "slug": "lunettes-de-soleil-aviateur-metal-horizon",
+      "description": "products.horizon_sunglasses.description",
+      "price": 320,
+      "imageUrl": "/product-images/accessories/lunettes-de-soleil-aviateur-metal-horizon.jpg",
+      "imageHint": "aviator sunglasses",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.horizon_sunglasses.details"
+    },
+    {
+      "id": "a-7",
+      "name": "products.nuit_scarf.name",
+      "slug": "echarpe-cachemire-70x200-nuit",
+      "description": "products.nuit_scarf.description",
+      "price": 260,
+      "imageUrl": "/product-images/accessories/echarpe-cachemire-70x200-nuit.jpg",
+      "imageHint": "cashmere scarf",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": true,
+      "details": "products.nuit_scarf.details"
+    },
+    {
+      "id": "a-8",
+      "name": "products.organize_pouch.name",
+      "slug": "pochette-tech-en-cuir-organize",
+      "description": "products.organize_pouch.description",
+      "price": 180,
+      "imageUrl": "/product-images/accessories/pochette-tech-en-cuir-organize.jpg",
+      "imageHint": "leather tech pouch",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.organize_pouch.details"
+    },
+    {
+      "id": "a-9",
+      "name": "products.reflet_jewelry_set.name",
+      "slug": "coffret-bijoux-argent-topaze-reflet",
+      "description": "products.reflet_jewelry_set.description",
+      "price": 590,
+      "imageUrl": "/product-images/accessories/coffret-bijoux-argent-topaze-reflet.jpg",
+      "imageHint": "silver jewelry set",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.reflet_jewelry_set.details"
+    },
+    {
+      "id": "a-10",
+      "name": "products.anchor_bracelet.name",
+      "slug": "bracelet-cuir-acier-anchor",
+      "description": "products.anchor_bracelet.description",
+      "price": 140,
+      "imageUrl": "/product-images/accessories/bracelet-cuir-acier-anchor.jpg",
+      "imageHint": "leather steel bracelet",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.anchor_bracelet.details"
+    },
+    {
+      "id": "a-11",
+      "name": "products.etoile_earrings.name",
+      "slug": "boucles-oreilles-or-blanc-diamants-etoile",
+      "description": "products.etoile_earrings.description",
+      "price": 1600,
+      "imageUrl": "/product-images/accessories/boucles-oreilles-or-blanc-diamants-etoile.jpg",
+      "imageHint": "diamond earrings",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.etoile_earrings.details"
+    },
+    {
+      "id": "a-12",
+      "name": "products.ocean_necklace.name",
+      "slug": "collier-pendentif-perle-ocean",
+      "description": "products.ocean_necklace.description",
+      "price": 420,
+      "imageUrl": "/product-images/accessories/collier-pendentif-perle-ocean.jpg",
+      "imageHint": "pearl necklace",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.ocean_necklace.details"
+    },
+    {
+      "id": "a-13",
+      "name": "products.sync_watch.name",
+      "slug": "montre-connectee-luxe-sync",
+      "description": "products.sync_watch.description",
+      "price": 950,
+      "imageUrl": "/product-images/accessories/montre-connectee-luxe-sync.jpg",
+      "imageHint": "luxury smart watch",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": true,
+      "details": "products.sync_watch.details"
+    },
+    {
+      "id": "a-14",
+      "name": "products.pluie_chic_umbrella.name",
+      "slug": "parapluie-long-bois-tissu-technique-pluie-chic",
+      "description": "products.pluie_chic_umbrella.description",
+      "price": 160,
+      "imageUrl": "/product-images/accessories/parapluie-long-bois-tissu-technique-pluie-chic.jpg",
+      "imageHint": "luxury umbrella",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.pluie_chic_umbrella.details"
+    },
+    {
+      "id": "a-15",
+      "name": "products.travel_safe_wallet.name",
+      "slug": "porte-valeurs-voyage-travel-safe",
+      "description": "products.travel_safe_wallet.description",
+      "price": 75,
+      "imageUrl": "/product-images/accessories/porte-valeurs-voyage-travel-safe.jpg",
+      "imageHint": "travel wallet",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.travel_safe_wallet.details"
+    },
+    {
+      "id": "a-16",
+      "name": "products.riviera_hat.name",
+      "slug": "chapeau-large-bord-paille-tressee-riviera",
+      "description": "products.riviera_hat.description",
+      "price": 190,
+      "imageUrl": "/product-images/accessories/chapeau-large-bord-paille-tressee-riviera.jpg",
+      "imageHint": "straw hat",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.riviera_hat.details"
+    },
+    {
+      "id": "a-17",
+      "name": "products.smart_gloves.name",
+      "slug": "gants-touchscreen-cuir-cachemire-smart",
+      "description": "products.smart_gloves.description",
+      "price": 140,
+      "imageUrl": "/product-images/accessories/gants-touchscreen-cuir-cachemire-smart.jpg",
+      "imageHint": "leather touchscreen gloves",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.smart_gloves.details"
+    },
+    {
+      "id": "a-18",
+      "name": "products.ceremony_bowtie.name",
+      "slug": "noeud-papillon-soie-tissee-ceremony",
+      "description": "products.ceremony_bowtie.description",
+      "price": 95,
+      "imageUrl": "/product-images/accessories/noeud-papillon-soie-tissee-ceremony.jpg",
+      "imageHint": "silk bow tie",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.ceremony_bowtie.details"
+    },
+    {
+      "id": "a-19",
+      "name": "products.coin_purse.name",
+      "slug": "porte-monnaie-clutch-cuir-coin",
+      "description": "products.coin_purse.description",
+      "price": 89,
+      "imageUrl": "/product-images/accessories/porte-monnaie-clutch-cuir-coin.jpg",
+      "imageHint": "leather coin purse",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.coin_purse.details"
+    },
+    {
+      "id": "a-20",
+      "name": "products.flora_brooch.name",
+      "slug": "broche-or-emaux-flora",
+      "description": "products.flora_brooch.description",
+      "price": 320,
+      "imageUrl": "/product-images/accessories/broche-or-emaux-flora.jpg",
+      "imageHint": "enamel brooch",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.flora_brooch.details"
+    },
+    {
+      "id": "a-21",
+      "name": "products.luxband_headband.name",
+      "slug": "bandeau-soie-imprimee-luxband",
+      "description": "products.luxband_headband.description",
+      "price": 75,
+      "imageUrl": "/product-images/accessories/bandeau-soie-imprimee-luxband.jpg",
+      "imageHint": "silk headband",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.luxband_headband.details"
+    },
+    {
+      "id": "a-22",
+      "name": "products.lecteur_glasses.name",
+      "slug": "lunettes-lecture-acetate-lecteur",
+      "description": "products.lecteur_glasses.description",
+      "price": 120,
+      "imageUrl": "/product-images/accessories/lunettes-lecture-acetate-lecteur.jpg",
+      "imageHint": "reading glasses",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.lecteur_glasses.details"
+    },
+    {
+      "id": "a-23",
+      "name": "products.charme_bag_charm.name",
+      "slug": "bijou-de-sac-en-cuir-metal-charme",
+      "description": "products.charme_bag_charm.description",
+      "price": 45,
+      "imageUrl": "/product-images/accessories/bijou-de-sac-en-cuir-metal-charme.jpg",
+      "imageHint": "leather bag charm",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.charme_bag_charm.details"
+    },
+    {
+      "id": "a-24",
+      "name": "products.portfolio_laptop_case.name",
+      "slug": "housse-ordinateur-cuir-portfolio",
+      "description": "products.portfolio_laptop_case.description",
+      "price": 260,
+      "imageUrl": "/product-images/accessories/housse-ordinateur-cuir-portfolio.jpg",
+      "imageHint": "leather laptop case",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.portfolio_laptop_case.details"
+    },
+    {
+      "id": "a-25",
+      "name": "products.keygold_keychain.name",
+      "slug": "porte-cles-bijou-cuir-keygold",
+      "description": "products.keygold_keychain.description",
+      "price": 65,
+      "imageUrl": "/product-images/accessories/porte-cles-bijou-cuir-keygold.jpg",
+      "imageHint": "leather keychain",
+      "width": 900,
+      "height": 900,
+      "category": "accessories",
+      "gender": "unisex",
+      "isTrending": false,
+      "details": "products.keygold_keychain.details"
+    },
+    {
+      "id": "s-f-1",
+      "name": "products.eclipse_heels.name",
+      "slug": "escarpins-cuir-verni-talon-9-cm-eclipse",
+      "description": "products.eclipse_heels.description",
+      "price": 420,
+      "imageUrl": "/product-images/shoes/escarpins-cuir-verni-talon-9-cm-eclipse.jpg",
+      "imageHint": "women high heels",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.eclipse_heels.details",
+      "options": {
+        "sizes": [
+          "37",
+          "38",
+          "39",
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "s-f-2",
+      "name": "products.serenite_sandals.name",
+      "slug": "sandales-a-bride-cheville-en-cuir-serenite",
+      "description": "products.serenite_sandals.description",
+      "price": 320,
+      "imageUrl": "/product-images/shoes/sandales-a-bride-cheville-en-cuir-serenite.jpg",
+      "imageHint": "women ankle strap sandals",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.serenite_sandals.details",
+      "options": {
+        "sizes": [
+          "37",
+          "38",
+          "39",
+          "40",
+          "41"
+        ]
+      }
+    },
+    {
+      "id": "s-f-3",
+      "name": "products.paris_boots.name",
+      "slug": "bottines-en-cuir-suede-talon-carre-paris",
+      "description": "products.paris_boots.description",
+      "price": 380,
+      "imageUrl": "/product-images/shoes/bottines-en-cuir-suede-talon-carre-paris.jpg",
+      "imageHint": "women suede boots",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "women",
+      "isTrending": true,
+      "details": "products.paris_boots.details",
+      "options": {
+        "sizes": [
+          "37",
+          "38",
+          "39",
+          "40",
+          "41"
+        ]
+      }
+    },
+    {
+      "id": "s-f-4",
+      "name": "products.diva_mules.name",
+      "slug": "mules-satin-talon-sculpte-diva",
+      "description": "products.diva_mules.description",
+      "price": 290,
+      "imageUrl": "/product-images/shoes/mules-satin-talon-sculpte-diva.jpg",
+      "imageHint": "women satin mules",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.diva_mules.details",
+      "options": {
+        "sizes": [
+          "37",
+          "38",
+          "39",
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "s-f-5",
+      "name": "products.street_luxe_derby.name",
+      "slug": "derby-chunky-platform-street-luxe",
+      "description": "products.street_luxe_derby.description",
+      "price": 260,
+      "imageUrl": "/product-images/shoes/derby-chunky-platform-street-luxe.jpg",
+      "imageHint": "women platform derby",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "women",
+      "isTrending": false,
+      "details": "products.street_luxe_derby.details",
+      "options": {
+        "sizes": [
+          "37",
+          "38",
+          "39",
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "s-m-1",
+      "name": "products.souverain_oxfords.name",
+      "slug": "richelieu-cousu-main-cuir-patine-souverain",
+      "description": "products.souverain_oxfords.description",
+      "price": 620,
+      "imageUrl": "/product-images/shoes/richelieu-cousu-main-cuir-patine-souverain.jpg",
+      "imageHint": "men leather oxfords",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.souverain_oxfords.details",
+      "options": {
+        "sizes": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      }
+    },
+    {
+      "id": "s-m-2",
+      "name": "products.elite_derby.name",
+      "slug": "derby-cuir-graine-elite",
+      "description": "products.elite_derby.description",
+      "price": 420,
+      "imageUrl": "/product-images/shoes/derby-cuir-graine-elite.jpg",
+      "imageHint": "men grained leather derby",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.elite_derby.details",
+      "options": {
+        "sizes": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      }
+    },
+    {
+      "id": "s-m-3",
+      "name": "products.club_loafer.name",
+      "slug": "mocassin-tasseled-suede-club",
+      "description": "products.club_loafer.description",
+      "price": 320,
+      "imageUrl": "/product-images/shoes/mocassin-tasseled-suede-club.jpg",
+      "imageHint": "men suede loafers",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.club_loafer.details",
+      "options": {
+        "sizes": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44"
+        ]
+      }
+    },
+    {
+      "id": "s-m-4",
+      "name": "products.tradition_brogues.name",
+      "slug": "brogues-perforees-full-brogue-tradition",
+      "description": "products.tradition_brogues.description",
+      "price": 480,
+      "imageUrl": "/product-images/shoes/brogues-perforees-full-brogue-tradition.jpg",
+      "imageHint": "men full-brogue shoes",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "men",
+      "isTrending": false,
+      "details": "products.tradition_brogues.details",
+      "options": {
+        "sizes": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44"
+        ]
+      }
+    },
+    {
+      "id": "s-m-5",
+      "name": "products.citadin_boots.name",
+      "slug": "bottines-chelsea-cuir-citadin",
+      "description": "products.citadin_boots.description",
+      "price": 460,
+      "imageUrl": "/product-images/shoes/bottines-chelsea-cuir-citadin.jpg",
+      "imageHint": "men chelsea boots",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.citadin_boots.details",
+      "options": {
+        "sizes": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      }
+    },
+    {
+      "id": "s-m-6",
+      "name": "products.runway_sneakers.name",
+      "slug": "sneakers-luxe-cuir-nubuck-runway",
+      "description": "products.runway_sneakers.description",
+      "price": 360,
+      "imageUrl": "/product-images/shoes/sneakers-luxe-cuir-nubuck-runway.jpg",
+      "imageHint": "men luxury sneakers",
+      "width": 800,
+      "height": 600,
+      "category": "shoes",
+      "gender": "men",
+      "isTrending": true,
+      "details": "products.runway_sneakers.details",
+      "options": {
+        "sizes": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      }
+    }
+  ]
+}
