@@ -1,0 +1,253 @@
+/**
+ * This ruleset defines the security model for the Eclat Boutique Firestore database.
+ *
+ * Core Philosophy:
+ * The security model is based on strict user ownership. All user-specific data, such as
+ * profiles, orders, and favorites, is private and can only be accessed or modified by the
+ * authenticated user who owns it. Publicly accessible data, like products and their reviews,
+ * is readable by anyone but write operations are restricted to the original author (for reviews)
+ * or are disabled pending implementation of an admin role system (for products).
+ *
+ * Data Structure:
+ * - User-specific data (orders, favorites) is nested within a user's document under the
+ *   /users/{userId} path. This structure leverages path-based security for simple and
+ *   effective ownership enforcement.
+ * - Publicly browsable data (products, reviews) is stored in top-level collections
+ *   (/products, /products/{productId}/reviews) to allow for efficient querying by all clients.
+ *
+ * Key Security Decisions:
+ * - Listing all users is disabled by default to protect user privacy.
+ * - Writes to the global /products collection are currently disabled. This is a secure default
+ *   pending the implementation of a specific admin role system, as the Product entity
+ *   lacks an ownership field.
+ * - Reviews are publicly readable to all users, but creating, updating, or deleting a review
+ *   is strictly limited to the user who originally wrote it.
+ *
+ * Denormalization for Authorization:
+ * This ruleset relies on denormalized ownership fields (e.g., the `userId` field on a `Review`
+ * document) to perform authorization checks. This approach avoids slow and costly `get()` calls,
+ * leading to more performant and scalable security rules.
+ *
+ * Structural Segregation:
+ * The separation of private data into user subcollections (e.g., /users/{userId}/orders) and
+ * public data into top-level collections (e.g., /products) is a deliberate design choice. It
+ * simplifies security rules and makes public list operations more secure and efficient.
+ */
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ------------------------------------------------------------------------
+    // Helper Functions
+    // ------------------------------------------------------------------------
+
+    /**
+     * Returns true if the user is authenticated.
+     */
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    /**
+     * Returns true if the authenticated user's UID matches the provided userId.
+     * This is the primary function for enforcing document ownership.
+     */
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    /**
+     * Returns true if the document exists and the user is the owner.
+     * Used for safe update and delete operations.
+     */
+    function isExistingOwner(userId) {
+      return isOwner(userId) && resource != null;
+    }
+
+    // ------------------------------------------------------------------------
+    // Validation Functions (Prototyping Mode)
+    // - These functions ONLY validate fields critical for authorization
+    //   and relational integrity. They DO NOT enforce the full data shape.
+    // ------------------------------------------------------------------------
+
+    /**
+     * Validates a new User document.
+     * Ensures the document ID in the data matches the user's auth UID.
+     */
+    function isNewUserDocValid(userId) {
+      return request.resource.data.id == userId;
+    }
+
+    /**
+     * Ensures the User ID remains immutable on update.
+     */
+    function isUpdatedUserDocValid() {
+      return request.resource.data.id == resource.data.id;
+    }
+
+    /**
+     * Validates a new Order document.
+     * Ensures the internal userId field matches the owner's path.
+     */
+    function isNewOrderDocValid(userId) {
+      return request.resource.data.userId == userId;
+    }
+
+    /**
+     * Ensures the Order's userId remains immutable on update.
+     */
+    function isUpdatedOrderDocValid() {
+      return request.resource.data.userId == resource.data.userId;
+    }
+
+    /**
+     * Validates a new OrderItem document.
+     * Ensures the internal orderId field matches the parent order's path.
+     */
+    function isNewOrderItemDocValid(orderId) {
+      return request.resource.data.orderId == orderId;
+    }
+
+    /**
+     * Ensures the OrderItem's orderId remains immutable on update.
+     */
+    function isUpdatedOrderItemDocValid() {
+      return request.resource.data.orderId == resource.data.orderId;
+    }
+
+    /**
+     * Validates a new Favorite document.
+     * Ensures the internal userId field matches the owner's path.
+     */
+    function isNewFavoriteDocValid(userId) {
+      return request.resource.data.userId == userId;
+    }
+
+    /**
+     * Ensures the Favorite's userId remains immutable on update.
+     */
+    function isUpdatedFavoriteDocValid() {
+      return request.resource.data.userId == resource.data.userId;
+    }
+
+    /**
+     * Validates a new Review document.
+     * Ensures the review is linked to the correct author (themselves) and product.
+     */
+    function isNewReviewDocValid(productId) {
+      let data = request.resource.data;
+      return data.userId == request.auth.uid && data.productId == productId;
+    }
+
+    /**
+     * Ensures a Review's author and product links are immutable.
+     */
+    function isUpdatedReviewDocValid() {
+      let incoming = request.resource.data;
+      let existing = resource.data;
+      return incoming.userId == existing.userId && incoming.productId == existing.productId;
+    }
+
+    // ------------------------------------------------------------------------
+    // Collection Rules
+    // ------------------------------------------------------------------------
+
+    /**
+     * @description Stores user profiles. A user can create their own profile, but can only
+     *              read, update, or delete their own data after creation. Listing all
+     *              users is disallowed to protect privacy.
+     * @path        /users/{userId}
+     * @allow       A new user (auth.uid: 'user_abc') can (create) their own profile at /users/user_abc.
+     * @deny        An authenticated user (auth.uid: 'user_xyz') cannot (get) or (update) another user's profile at /users/user_abc.
+     * @principle   Restricts access to a user's own data tree (Self-Creation & Ownership).
+     */
+    match /users/{userId} {
+      allow get: if isOwner(userId);
+      allow list: if false; // Disallow listing all users for privacy
+      allow create: if isOwner(userId) && isNewUserDocValid(userId);
+      allow update: if isOwner(userId) && isUpdatedUserDocValid();
+      allow delete: if isOwner(userId);
+    }
+
+    /**
+     * @description Stores product information. This data is public and can be read by anyone.
+     *              Writes are currently disabled because a secure admin role or ownership
+     *              model has not been defined for products.
+     * @path        /products/{productId}
+     * @allow       Any user, signed in or not, can (get) or (list) all products.
+     * @deny        Any user, regardless of auth state, cannot (create), (update), or (delete) a product.
+     * @principle   Enforces public read-only access for catalog data.
+     */
+    match /products/{productId} {
+      allow get: if true;
+      allow list: if true;
+
+      // CRITICAL: Cannot implement owner-only or admin-only writes. The 'Product' entity
+      // is missing an 'ownerId' field or a defined admin role system.
+      allow create, update, delete: if false; // TODO: Implement admin-only writes once an admin system is defined.
+    }
+
+    /**
+     * @description Stores user reviews for products. Reviews are public and can be read by anyone.
+     *              Only the authenticated user who created a review can modify or delete it.
+     * @path        /products/{productId}/reviews/{reviewId}
+     * @allow       A signed-in user (auth.uid: 'user_abc') can (create) a review with their own userId.
+     * @deny        A user (auth.uid: 'user_xyz') cannot (update) or (delete) a review written by 'user_abc'.
+     * @principle   Public read access with creator-only write access.
+     */
+    match /products/{productId}/reviews/{reviewId} {
+      allow get: if true;
+      allow list: if true;
+      allow create: if isSignedIn() && isNewReviewDocValid(productId);
+      allow update: if isExistingOwner(resource.data.userId) && isUpdatedReviewDocValid();
+      allow delete: if isExistingOwner(resource.data.userId);
+    }
+
+    /**
+     * @description Stores user orders. Access is strictly limited to the user who owns the order.
+     * @path        /users/{userId}/orders/{orderId}
+     * @allow       A user (auth.uid: 'user_abc') can (get), (list), or (create) their own orders under /users/user_abc/orders.
+     * @deny        A user (auth.uid: 'user_xyz') cannot access anything under /users/user_abc/orders.
+     * @principle   Enforces document ownership for all operations within a user's private data tree.
+     */
+    match /users/{userId}/orders/{orderId} {
+      allow get: if isOwner(userId);
+      allow list: if isOwner(userId);
+      allow create: if isOwner(userId) && isNewOrderDocValid(userId);
+      allow update: if isOwner(userId) && isUpdatedOrderDocValid();
+      allow delete: if isOwner(userId);
+    }
+
+    /**
+     * @description Stores the individual items within a user's order. Access is inherited from the parent
+     *              order, meaning only the order's owner can access these items.
+     * @path        /users/{userId}/orders/{orderId}/orderItems/{orderItemId}
+     * @allow       A user (auth.uid: 'user_abc') can (get) an order item at /users/user_abc/orders/order_123/orderItems/item_456.
+     * @deny        A user (auth.uid: 'user_xyz') cannot (list) items from another user's order.
+     * @principle   Enforces inherited ownership from the parent document path.
+     */
+    match /users/{userId}/orders/{orderId}/orderItems/{orderItemId} {
+      allow get: if isOwner(userId);
+      allow list: if isOwner(userId);
+      allow create: if isOwner(userId) && isNewOrderItemDocValid(orderId);
+      allow update: if isOwner(userId) && isUpdatedOrderItemDocValid();
+      allow delete: if isOwner(userId);
+    }
+
+    /**
+     * @description Stores a user's favorite products. Access is strictly limited to the owner of the favorites list.
+     * @path        /users/{userId}/favorites/{favoriteId}
+     * @allow       A user (auth.uid: 'user_abc') can (create) or (delete) a favorite within their own list at /users/user_abc/favorites.
+     * @deny        A user (auth.uid: 'user_xyz') cannot (get) or (list) another user's favorites.
+     * @principle   Enforces document ownership for all operations within a user's private data tree.
+     */
+    match /users/{userId}/favorites/{favoriteId} {
+      allow get: if isOwner(userId);
+      allow list: if isOwner(userId);
+      allow create: if isOwner(userId) && isNewFavoriteDocValid(userId);
+      allow update: if isOwner(userId) && isUpdatedFavoriteDocValid();
+      allow delete: if isOwner(userId);
+    }
+
+  }
+}
